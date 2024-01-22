@@ -9,18 +9,18 @@ weight = 1
 
 Hi there! I'm Jacob Sadowyj, an experienced Cloud Infrastrucuture Engineer, Software Engineer, and IT Professional with a passion for turning challenges into innovation.
 
-### who is this guy? 👨‍💻
+### so what? 💭
 
-I've been at the forefront of some [seriously cool projects](/projects), such as leading the development of the NetSapiens Console (nsc), where I harnessed the power of PBX APIs to cut labor costs by a whopping 712 hours over two years!
+I've been at the forefront of some [seriously cool projects](/projects), such as leading the development of the NetSapiens Console (nsc), which dynamically builds IVR call-flow diagrams bbased on a series of API calls.
 
-Having led app deployments, and executed large-scale migrations U.S. government agencies. I can take an application from it's infancy all the way to self-sustaning cloud architecture.
+Having led application deployments, and executed large-scale migrations for large organizations and U.S. government agencies. I can take applications from their infancy all the way to self-sustaning cloud architecture.
 
 if that interests you 🤝 let's get [in touch!](mailto:jacob@sadowyj.net)
 
 ### my skills 🔎
 
 - programmming
-- linux
+- linux administration
 - infrastructure automation
     - ansible
     - terraform
@@ -34,7 +34,7 @@ if that interests you 🤝 let's get [in touch!](mailto:jacob@sadowyj.net)
 
 
 ### connect 🌐
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/jsadowyj/)   [![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/jsadowyj)   ✉️[Email](mailto:jacob@sadowyj.net)
+![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/jsadowyj/)   ![GitHub](https://i.stack.imgur.com/tskMh.png) [GitHub](https://github.com/jsadowyj) ✉️ [Email](mailto:jacob@sadowyj.net)
 
 _hesitant? learn more [about me](/about) :)_
 
