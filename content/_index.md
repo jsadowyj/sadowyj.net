@@ -11,7 +11,7 @@ Hi there! I'm Jacob Sadowyj, an experienced Cloud Infrastrucuture Engineer, Soft
 
 ### so what? 💭
 
-I've been at the forefront of some [seriously cool projects](/projects), such as leading the development of the NetSapiens Console (nsc), which dynamically builds IVR call-flow diagrams bbased on a series of API calls.
+I've been at the forefront of some [seriously cool projects](/projects), such as leading the development of the NetSapiens Console (nsc), which dynamically builds IVR call-flow diagrams based on a series of API calls.
 
 Having led application deployments, and executed large-scale migrations for large organizations and U.S. government agencies. I can take applications from their infancy all the way to self-sustaning cloud architecture.
 
