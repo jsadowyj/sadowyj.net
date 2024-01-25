@@ -41,7 +41,7 @@ enableRobotsTXT = true
 [params]
   madeWith = "Made with [ᕦʕ •ᴥ•ʔᕤ](https://github.com/clente/hugo-bearcub)"
   # The description of your website
-  description = "I'm Jacob Sadowyj, an experienced Cloud Infrastrucuture Engineer, Software Engineer, and IT Professional with a passion for turning challenges into innovation."
+  description = "Jacob Sadowyj - experienced Cloud Infrastrucuture Engineer, Software Engineer, and IT Professional with a passion for turning challenges into innovation."
 
   # The path to your favicon
   favicon = "images/favicon.png"
