@@ -5,37 +5,51 @@ menu = 'main'
 weight = 1
 +++
 
-### intro 🚀
+### intro
 
-Hi there! I'm Jacob Sadowyj, an experienced Cloud Infrastrucuture Engineer, Software Engineer, and IT Professional with a passion for turning challenges into innovation.
+Hi there! I'm Jacob Sadowyj, and I break things professionally so they don't break accidentally. As a Site Reliability Engineer, I turn coffee into uptime and chaos into carefully orchestrated systems that actually work.
 
-### experience 💡
+### experience
 
-I've been at the forefront of some [seriously cool projects](/projects), such as leading the development of the NetSapiens Console (nsc), which dynamically builds IVR call-flow diagrams based on a series of API calls.
+I've been at the forefront of some [seriously cool infrastructure projects](/projects), from building monitoring systems that keep entire datacenters healthy to migrating production CDNs in record time thanks to infrastructure as code. 
 
-Having led application deployments, and executed large-scale migrations for large organizations (and U.S. government agencies). I can take applications from their infancy all the way to self-sustaning cloud architecture.
+My days are spent wrangling Kubernetes clusters, crafting Terraform modules, and making sure PostgreSQL databases stay happy under load. I love the challenge of taking a messy infrastructure problem and turning it into something elegant and automated.
+
+Having led application deployments and executed large-scale migrations for organizations and U.S. government agencies, I can take applications from their infancy all the way to self-sustaining cloud architecture.
 
 if that interests you 🤝 let's get [in touch!](mailto:jacob@sadowyj.net)
 
-### skills 🔎
+### core technologies
 
-- programmming
-- linux administration
+- programming
+    - node.js
+    - react
+    - python
+    - go
 - infrastructure automation
+    - kubernetes
+    - docker
     - ansible
     - terraform
+- observability
+    - victoriametrics
+    - grafana
+    - prometheus
+- databases
+    - postgresql
+    - redis
+    - elasticsearch
 - ci/cd
-- containerization
-    - docker
-    - kubernetes
-    - podman
-- cybersecurity
-- network architecture
+    - github actions
+    - argocd
+    - gitops workflows
+- cloud platforms & CDN management
+- security & certificate management
 
 
 ### connect 🌐
-✉️ [Email](mailto:jacob@sadowyj.net)  ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/jsadowyj/)   ![GitHub](https://i.stack.imgur.com/tskMh.png) [GitHub](https://github.com/jsadowyj) 
+✉️ [Email](mailto:jacob@sadowyj.net)  💼[LinkedIn](https://www.linkedin.com/in/jsadowyj/)   👨‍💻 [GitHub](https://github.com/jsadowyj) 
 
-_hesitant? learn more [about me](/about) :)_
+_want to know more first? learn more [about me](/about)._
 
 ---
