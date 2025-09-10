@@ -1,4 +1,6 @@
-# PostgreSQL Delayed Replicas: The Monitoring Nightmare That Woke Me Up at 1 AM
++++
+title = 'PostgreSQL Delayed Replicas: The Monitoring Nightmare That Woke Me Up at 1 AM' date = 2025-01-09T18:30:00-05:00 draft = false
++++
 
 I recently spent a day debugging one of those wonderfully frustrating monitoring issues that makes you question everything you know about databases. What followed was a technical rabbit hole that led to some interesting discoveries about how PostgreSQL delayed replicas work and why they're basically designed to drive our monitoring systems into madness.
 
