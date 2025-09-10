@@ -185,4 +185,4 @@ This whole experience reinforced how important it is to understand the data sour
 
 ---
 
-*If you're dealing with similar PostgreSQL monitoring challenges or have war stories about delayed replicas. I'd love to hear them!
+*If you're dealing with similar PostgreSQL monitoring challenges or have war stories about delayed replicas. I'd love to hear them!*
