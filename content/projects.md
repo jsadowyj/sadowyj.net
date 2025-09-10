@@ -10,6 +10,8 @@ weight = 3
 
 ## Multi-Datacenter Monitoring Solution
 
+![victoria-metrics-cluster-diagram](https://docs.victoriametrics.com/helm/victoria-metrics-k8s-stack/img/k8s-stack-overview.webp)
+
 Built a monitoring platform that's basically a crystal ball for infrastructure problems - it knows about issues before they happen. With over 300 alerting rules watching everything from database hiccups to network sneezes, it catches problems while they're still just bad ideas.
 
 I designed the whole stack using VictoriaMetrics for metrics storage, Grafana for dashboards that actually make sense, and custom exporters for some pretty niche Triton SmartOS environments. The entire platform runs on Kubernetes using ArgoCD's "Apps of Apps" pattern - no more "it works on my laptop" syndrome, everything is declarative and version-controlled. Each alert comes with its own AI-generated playbook - that's 300+ troubleshooting guides because apparently infrastructure finds new and creative ways to break.
@@ -33,6 +35,8 @@ I designed the whole stack using VictoriaMetrics for metrics storage, Grafana fo
 
 ## Two-day CDN Migration
 
+![cloudflare-logo](https://upload.wikimedia.org/wikipedia/commons/c/c5/Cf-logo-v-rgb.jpg)
+
 Turned what should have been weeks of manual DNS surgery into a two-day Terraform symphony. Managing 25+ domains across multiple environments used to involve a lot of prayer and caffeine - now it's just code that works.
 
 I built the whole thing with Terraform modules for DNS management and CDN configurations that made the migration repeatable and auditable. The documentation is clear enough that new team members don't need to decipher ancient infrastructure hieroglyphics.
@@ -47,7 +51,9 @@ I built the whole thing with Terraform modules for DNS management and CDN config
 
 ---
 
-## GitOps Conversions
+## Terraform GitOps Conversions
+
+![terraform-gitops-diagram](https://upload.wikimedia.org/wikipedia/commons/d/d7/Terraform-logo.png)
 
 No more manual configuration drift or surprise changes - everything is code-driven, version-controlled, and refreshingly predictable.
 
@@ -63,7 +69,9 @@ I implemented automated Terraform workflows with plans on pull requests and appl
 
 ---
 
-## PostgreSQL Automation
+## PostgreSQL Automations
+
+![postgres-cake](https://live.staticflickr.com/7503/15471867088_5ef7392005_b.jpg)
 
 Built PostgreSQL clusters that handle network hiccups like champs and have cross-datacenter replication for when things really hit the fan. Sleep is important, after all.
 
