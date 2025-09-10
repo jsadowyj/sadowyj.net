@@ -7,9 +7,10 @@ weight = 2
 
 ## about
 
-![me](/images/me.jpg)
+This is me and my lovely girlfriend Abbi.
 
-My dog Jakson and I
+![me](/images/me.jpeg)
+
 
 ### background
 
