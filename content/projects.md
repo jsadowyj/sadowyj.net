@@ -37,7 +37,7 @@ I designed the whole stack using VictoriaMetrics for metrics storage, Grafana fo
 
 ![cloudflare-logo](https://upload.wikimedia.org/wikipedia/commons/c/c5/Cf-logo-v-rgb.jpg)
 
-Turned what should have been weeks of manual DNS surgery into a two-day Terraform symphony. Managing 25+ domains across multiple environments used to involve a lot of prayer and caffeine - now it's just code that works.
+Turned what should have been weeks of manual DNS surgery into a two-day Terraform symphony. Managing 25+ domains across multiple environments used to involve a lot of prayer and sheer willpower - now it's just code that works.
 
 I built the whole thing with Terraform modules for DNS management and CDN configurations that made the migration repeatable and auditable. The documentation is clear enough that new team members don't need to decipher ancient infrastructure hieroglyphics.
 

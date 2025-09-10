@@ -174,7 +174,7 @@ This prevents false positives during legitimate idle periods while still catchin
 
 ## The Result
 
-The fix eliminated the false positives while maintaining full coverage through layered monitoring (and my caffeine budget):
+The fix eliminated the false positives while maintaining full coverage through layered monitoring:
 - `PostgresqlApplyLagBeyondDelay`: Catches performance issues when there's actual work to do
 - `PostgresqlWalReceiverStalled`: Catches connection/network problems within 120 seconds
 - `PostgresqlTimeLagWithoutInput`: Warns about extended idle periods
