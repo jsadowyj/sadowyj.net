@@ -59,7 +59,7 @@ pg:receiver_msg_age_seconds > 120
 and on(instance) (pg:receiver_data_in_30m == 0)
 ```
 
-The `PostgresqlApplyLagBeyondDelay` alert was our problem child - firing away at the worst of times with the timing precision of a smoke detector running out of batteries. Apparently it had a personal vendetta against quiet afternoons.
+The `PostgresqlApplyLagBeyondDelay` alert was our problem child - firing away at the worst of times with the timing precision of a smoke detector running out of batteries. Apparently it had a personal vendetta against REM sleep.
 
 ## Down the PostgreSQL Rabbit Hole
 
@@ -74,7 +74,7 @@ SELECT
     END AS lag
 ```
 
-That last line is the key: `now() - pg_last_xact_replay_timestamp()`. This measures the time since the last COMMIT was replayed, not when it was received. Subtle? Yes. Evil? Absolutely.
+That last line is the key: `now() - pg_last_xact_replay_timestamp()`. This measures the time since the last COMMIT was replayed, not when it was received. Which makes sense for *most* situations if you think about it. But personally I believe there ought to be two separate "seconds of delay" metrics: time since the last commit was replayed, and time since the last commit was received. The name "pg_replication_lag_seconds" is a bit ambiguous.
 
 ## The "Aha!" Moment
 
@@ -91,7 +91,7 @@ But for delayed replicas with a 2-hour delay:
 - **12:00 PM**: `pg_last_xact_replay_timestamp` = 10:00 AM (original commit time!)
 - **12:30 PM**: lag = 2.5 hours = 1800s excess lag
 
-Even though the delayed replica is completely caught up with everything it's allowed to replay, the lag metric keeps growing because it's measuring from the original transaction timestamp, not when the replica processed it. It's like being blamed for being late to a meeting that was rescheduled but nobody told the clock.
+Even though the delayed replica is completely caught up with everything it's allowed to replay, the lag metric keeps growing because it's measuring from the original transaction timestamp, not when the replica processed it.
 
 This explains why delayed replicas were disproportionately affected. They start with a 2-hour-old timestamp and any idle period compounds on top of that existing delay, while non-delayed replicas only accumulate lag from the current moment. In other words, the delayed replicas will rarely hit this clause:
 ```sql
