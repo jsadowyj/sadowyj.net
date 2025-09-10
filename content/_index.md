@@ -11,7 +11,7 @@ Hi there! I'm Jacob Sadowyj, and I break things professionally so they don't bre
 
 ### experience
 
-I've been at the forefront of some [seriously cool infrastructure projects](/projects), from building monitoring systems that keep entire datacenters healthy to migrating production CDNs in record time thanks to infrastructure as code. 
+I've been at the forefront of some [infrastructure work that keeps the lights on](/projects), from building monitoring systems that keep entire datacenters healthy to migrating production CDNs in record time thanks to infrastructure as code. 
 
 My days are spent wrangling Kubernetes clusters, crafting Terraform modules, and making sure PostgreSQL databases stay happy under load. I love the challenge of taking a messy infrastructure problem and turning it into something elegant and automated.
 
@@ -47,8 +47,8 @@ if that interests you 🤝 let's get [in touch!](mailto:jacob@sadowyj.net)
 - security & certificate management
 
 
-### connect 🌐
-✉️ [Email](mailto:jacob@sadowyj.net)  💼[LinkedIn](https://www.linkedin.com/in/jsadowyj/)   👨‍💻 [GitHub](https://github.com/jsadowyj) 
+### connect
+✉️ [Email](mailto:jacob@sadowyj.net)  💼 [LinkedIn](https://www.linkedin.com/in/jsadowyj/)   👨‍💻 [GitHub](https://github.com/jsadowyj) 
 
 _want to know more first? learn more [about me](/about)._
 
