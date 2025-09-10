@@ -15,7 +15,7 @@ I've been at the forefront of some [infrastructure work that keeps the lights on
 
 My days are spent wrangling Kubernetes clusters, crafting Terraform modules, and making sure PostgreSQL databases stay happy under load. I love the challenge of taking a messy infrastructure problem and turning it into something elegant and automated.
 
-Having led application deployments and executed large-scale migrations for organizations and U.S. government agencies, I can take applications from their infancy all the way to self-sustaining cloud architecture.
+From startups to government agencies, I've taken applications that were held together with hope and duct tape and transformed them into robust, scalable cloud architectures.
 
 if that interests you 🤝 let's get [in touch!](mailto:jacob@sadowyj.net)
 
