@@ -10,33 +10,33 @@ weight = 3
 
 ## Multi-Datacenter Monitoring Solution
 
-Built a comprehensive monitoring platform that watches over multiple datacenters, catching issues before users even notice them. The system provides real-time visibility into database performance, application health, and infrastructure metrics across our entire stack.
+Built a monitoring platform that's basically a crystal ball for infrastructure problems - it knows about issues before they happen. With over 300 alerting rules watching everything from database hiccups to network sneezes, it catches problems while they're still just bad ideas.
 
-I designed the architecture using VictoriaMetrics for metrics storage, Grafana for visualization, and Prometheus for data collection. The platform has saved countless hours of troubleshooting and dramatically improved our incident response times.
+I designed the whole stack using VictoriaMetrics for metrics storage, Grafana for dashboards that actually make sense, and custom exporters for some pretty niche Triton SmartOS environments. Each alert comes with its own AI-generated playbook - that's 300+ troubleshooting guides because apparently infrastructure finds new and creative ways to break.
 
 ---
 
 ## Two-day CDN Migration
 
-Migrated all production CDN configurations between two different CDN providers in just two days. My push to get everything into Terraform paid off big time - what could have been weeks of manual work became a smooth, automated process.
+Turned what should have been weeks of manual DNS surgery into a two-day Terraform symphony. Managing 25+ domains across multiple environments used to involve a lot of prayer and caffeine - now it's just code that works.
 
-I wrote Terraform modules to manage domain configurations, security rules, and site redirects. The infrastructure-as-code approach made the migration repeatable and auditable.
+I built the whole thing with SOPS-encrypted secrets (because API keys floating around in plain text give me nightmares) and a CI/CD pipeline that's smart enough to only rebuild what actually changed. The documentation is clear enough that new team members don't need to decipher ancient infrastructure hieroglyphics.
 
 ---
 
 ## GitOps Conversions
 
-Turned chaotic Kubernetes deployments into smooth GitOps workflows with ArgoCD. Now infrastructure changes flow as smoothly as code commits, and every deployment is tracked and reversible.
+Turned Kubernetes chaos into something that actually makes sense using ArgoCD's "Apps of Apps" pattern. No more "it works on my laptop" syndrome - everything is declarative, version-controlled, and refreshingly predictable.
 
-I implemented automated remote write configurations for centralized monitoring and established deployment patterns that the entire team could follow. No more "it works on my machine" - everything is declarative and version-controlled.
+I implemented the whole GitOps workflow with sealed-secrets for keeping credentials actually secret, and UpdateCLI for automated image updates that don't randomly explode. It's become my personal crusade to get absolutely everything possible into Terraform - if it can be automated, it should be automated.
 
 ---
 
 ## PostgreSQL Automation
 
-Set up high-availability PostgreSQL clusters that can handle anything from network hiccups to full datacenter outages. Sleep is important, after all.
+Built PostgreSQL clusters that handle network hiccups like champs and have cross-datacenter replication for when things really hit the fan. Sleep is important, after all.
 
-I automated database deployment processes with replication-aware Ansible playbooks, automated backup processes, and integrated our monitoring system to new deployments. The database systems have maintained 99.995% uptime during my tenure.
+I wrote Ansible playbooks that know their way around database replication, automated the backup process until data loss became more of a theoretical worry than a real one, and built monitoring that gives me a heads up before PostgreSQL starts having a bad day. The cross-datacenter replication means we can survive a full datacenter outage without too much drama.
 
 ---
 
