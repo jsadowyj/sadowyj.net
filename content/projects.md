@@ -99,16 +99,23 @@ I wrote the backend Node.js and the front-end in React. It was the first project
 
 ![lingqml diagrams](/images/lingqml.png)
 
-My computer science capstone project exploring how machine learning can identify vocabulary gaps for language learners. The application analyzes a user's known words exported from LingQ and applies K-Nearest Neighbors on FastText word embeddings to suggest semantically related words that may be missing from their vocabulary.
+My computer science capstone project exploring how machine learning can identify vocabulary gaps for language learners. The application analyzes a user's known words exported from [LingQ](https://www.lingq.com/en/) and applies K-Nearest Neighbors on FastText word embeddings to suggest semantically related words that may be missing from their vocabulary.
 
 **Key Components**
 
-- **Data Processing** — Parsing and normalizing FastText embeddings, frequency lists, and part-of-speech data from multiple public sources
-- **Visualizations** — Part-of-speech distribution charts, frequency coverage plots, and word clouds built with matplotlib
-- **ML Model** — Unsupervised K-NN using cosine similarity on 300-dimensional word vectors to find semantically similar vocabulary gaps
+- Parsing and normalizing FastText embeddings, frequency lists, and part-of-speech data from multiple public sources
+- Part-of-speech distribution charts, frequency coverage plots, and word clouds built with matplotlib
+- Unsupervised K-NN using cosine similarity on 300-dimensional word vectors to find semantically similar vocabulary gaps
 
 **Under the hood**:
-Python, scikit-learn, FastText, pandas, matplotlib, NumPy, Jupyter Notebook, Docker
+- Python
+- scikit-learn
+- FastText
+- pandas
+- matplotlib
+- NumPy
+- Jupyter Notebook
+- Docker
 
 **What I Learned**
 
