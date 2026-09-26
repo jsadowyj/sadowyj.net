@@ -37,7 +37,7 @@ I designed the whole stack: VictoriaMetrics for metrics storage, Grafana for das
 
 ![cloudflare-logo](https://upload.wikimedia.org/wikipedia/commons/c/c5/Cf-logo-v-rgb.jpg)
 
-Compressed what would have been weeks of manual console work into a two-day migration. Managing 100+ domains across multiple environments had been a slow, error-prone process; afterward the entire configuration lived in code.
+Turned what would have been weeks of manual console work into a two-day Terraform symphony. I had designed the configuration to be fully convergent for exactly this scenario: it could tear the entire setup down and bring itself back up with no manual bootstrapping in between, which is what let 100+ domains across multiple environments move in two days instead of a quarter.
 
 I built the whole thing with Terraform modules for DNS management and CDN configurations that made the migration repeatable and auditable. The documentation was detailed enough that new team members could make DNS and CDN changes without inheriting tribal knowledge first.
 
