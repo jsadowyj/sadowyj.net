@@ -12,9 +12,9 @@ weight = 3
 
 ![victoria-metrics-cluster-diagram](https://docs.victoriametrics.com/helm/victoria-metrics-k8s-stack/img/k8s-stack-overview.webp)
 
-Built a monitoring platform that's basically a crystal ball for infrastructure problems - it knows about issues before they happen. With over 300 alerting rules watching everything from database hiccups to network sneezes, it catches problems while they're still just bad ideas.
+Built a monitoring platform that surfaced infrastructure problems before they turned into outages. Over 300 alerting rules covered everything from database replication lag to network saturation, so most issues were caught while they were still trending the wrong way rather than after something broke.
 
-I designed the whole stack using VictoriaMetrics for metrics storage, Grafana for dashboards that actually make sense, and custom exporters for some pretty niche Triton SmartOS environments. The entire platform runs on Kubernetes using ArgoCD's "Apps of Apps" pattern - no more "it works on my laptop" syndrome, everything is declarative and version-controlled. Each alert comes with its own AI-generated playbook - that's 300+ troubleshooting guides because apparently infrastructure finds new and creative ways to break.
+I designed the whole stack: VictoriaMetrics for metrics storage, Grafana for dashboards, and custom exporters for some pretty niche Triton SmartOS environments. The entire platform ran on Kubernetes using ArgoCD's "Apps of Apps" pattern, so every component was declarative and version-controlled. Each of the 300+ alerts shipped with its own AI-generated playbook, which meant whoever got paged started with a runbook instead of a blank page.
 
 **Under the hood**:
 - VictoriaMetrics Cluster
@@ -37,9 +37,9 @@ I designed the whole stack using VictoriaMetrics for metrics storage, Grafana fo
 
 ![cloudflare-logo](https://upload.wikimedia.org/wikipedia/commons/c/c5/Cf-logo-v-rgb.jpg)
 
-Turned what should have been weeks of manual surgery into a two-day Terraform symphony. Managing 100+ domains across multiple environments used to involve a lot of prayer and sheer willpower - now it's just code that works.
+Compressed what would have been weeks of manual console work into a two-day migration. Managing 100+ domains across multiple environments had been a slow, error-prone process; afterward the entire configuration lived in code.
 
-I built the whole thing with Terraform modules for DNS management and CDN configurations that made the migration repeatable and auditable. The documentation is clear enough that new team members don't need to decipher ancient infrastructure hieroglyphics.
+I built the whole thing with Terraform modules for DNS management and CDN configurations that made the migration repeatable and auditable. The documentation was detailed enough that new team members could make DNS and CDN changes without inheriting tribal knowledge first.
 
 **Under the hood**:
 - Terraform modules for DNS and CDN configuration
@@ -55,9 +55,9 @@ I built the whole thing with Terraform modules for DNS management and CDN config
 
 ![terraform-gitops-diagram](https://upload.wikimedia.org/wikipedia/commons/d/d7/Terraform-logo.png)
 
-No more manual configuration drift or surprise changes - everything is code-driven, version-controlled, and refreshingly predictable.
+Converted hand-managed infrastructure to a GitOps workflow, which put an end to configuration drift and surprise changes - every change was code-driven, reviewed, and version-controlled.
 
-I implemented automated Terraform workflows with plans on pull requests and applies on merge, plus SOPS encryption for secrets. The CI/CD pipeline is smart enough to detect exactly what changed and only rebuild those specific components. It's become my personal crusade to get absolutely everything possible into Terraform - if it can be automated, it should be automated.
+I implemented automated Terraform workflows with plans on pull requests and applies on merge, plus SOPS encryption for secrets. The CI/CD pipeline was smart enough to detect exactly what changed and only rebuild those specific components. I'd rather spend an afternoon writing a module than make the same manual change twice - if it can be automated, it should be automated.
 
 **Under the hood**:
 - smart CI/CD that only runs terraform for modified applications
@@ -73,9 +73,9 @@ I implemented automated Terraform workflows with plans on pull requests and appl
 
 ![postgres-cake](https://live.staticflickr.com/7503/15471867088_5ef7392005_b.jpg)
 
-Built PostgreSQL clusters that handle network hiccups like champs and have cross-datacenter replication for when things really hit the fan. Sleep is important, after all.
+Built PostgreSQL clusters that rode out network interruptions without manual intervention, with cross-datacenter replication for the failure modes that could take an entire site offline.
 
-I wrote Ansible playbooks that know their way around database replication, automated the backup process to allow for seamless point-in-time recovery, and built monitoring that gave us many heads-ups before PostgreSQL started having a bad day.
+I wrote Ansible playbooks that knew their way around database replication, automated the backup process to allow for seamless point-in-time recovery, and built monitoring that warned us well before replication lag turned into an incident.
 
 **Under the hood**:
 - Ansible with custom roles
@@ -99,7 +99,7 @@ I wrote the backend Node.js and the front-end in React. It was the first project
 
 ![lingqml diagrams](/images/lingqml.png)
 
-My computer science capstone project exploring how machine learning can identify vocabulary gaps for language learners. The application analyzes a user's known words exported from [LingQ](https://www.lingq.com/en/) and applies K-Nearest Neighbors on FastText word embeddings to suggest semantically related words that may be missing from their vocabulary.
+My computer science capstone project exploring how machine learning can identify vocabulary gaps for language learners. The application analyzed a user's known words exported from [LingQ](https://www.lingq.com/en/) and applied K-Nearest Neighbors on FastText word embeddings to suggest semantically related words that might be missing from their vocabulary.
 
 **Key Components**
 
