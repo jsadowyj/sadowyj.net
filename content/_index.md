@@ -7,11 +7,11 @@ weight = 1
 
 ### intro
 
-Hi there! I'm Jacob Sadowyj, and I break things professionally so they don't break accidentally. As a Site Reliability Engineer, I turn coffee into uptime and chaos into carefully orchestrated systems that actually work.
+Hi there! I'm Jacob Sadowyj, a Site Reliability Engineer. I build infrastructure that stays up, automates itself, and fails in ways someone already thought about. My goal every quarter is to make production as boring as possible — so far, mostly successful.
 
 ### experience
 
-I've been at the forefront of [infrastructure work](/projects) that keeps the lights on, from building monitoring systems that keep entire datacenters healthy to migrating production CDNs in record time thanks to infrastructure as code. 
+I've built [infrastructure](/projects) that other people depend on without ever thinking about it: monitoring that catches datacenter problems before anyone files a ticket, and a production CDN migration that took days instead of quarters because the whole thing was already defined as code.
 
 My days are spent wrangling Kubernetes clusters, crafting Terraform modules, and making sure PostgreSQL databases stay happy under load. I love the challenge of taking a messy infrastructure problem and turning it into something elegant and automated.
 
