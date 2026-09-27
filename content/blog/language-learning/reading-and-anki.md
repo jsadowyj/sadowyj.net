@@ -4,11 +4,11 @@ date = 2026-09-26T21:00:00-04:00
 draft = false
 +++
 
-This is the core of the method: the first two stages of my daily pipeline.
+This is the core of the method: the first two stages of my daily pipeline, **discover** and **drill**.
 
 ## LingQ reading
 
-This is the foundation of the whole method, and the first stage of my daily pipeline: **exposure**.
+This is the foundation of the whole method, and the first stage of my daily pipeline: **discover**.
 
 I'm on LingQ's premium plan, because the free plan is too limited to make reasonable progress. I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand. That's the [grammar jargon]({{< relref "prep.md#english-grammar-jargon" >}}) paying off in real sentences.
 
@@ -55,7 +55,7 @@ If I ran Aminte before bumping the levels, words I'd saved in earlier lessons wo
 
 ## Anki
 
-This is the second stage of the pipeline: **learning**. It's where the actual mental connections form.
+This is the second stage of the pipeline: **drill**. It's where the actual mental connections form.
 
 Aminte makes *cloze* cards: each card shows a full sentence from a LingQ lesson with the new word blanked out, and I fill in the blank. Anki's spaced repetition then schedules each card to come back right before I'd forget it. This is where I make the jump from translating everything in my head to understanding the language directly. As I keep up with the daily reviews, the reading in LingQ gets noticeably easier.
 

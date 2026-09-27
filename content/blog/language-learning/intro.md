@@ -49,7 +49,7 @@ Here's how it compares to the approaches I hear about most:
 - **Making my own flashcards** (sentence mining, as Refold teaches it). As a beginner, I couldn't tell which sentences were worth a card. When I wrote my own, I overthought them and they were often wrong, so I'd run each one through AI for corrections and then build the card by hand. It was slow. LingQ already has tons of curated content that I never have to second-guess, and Aminte turns those sentences into cards with one click.
 - **Audio courses** like Pimsleur. I did the Romanian course long before I started this method, and it put me at the peak of the Dunning–Kruger curve. I finished it thinking I knew a lot of Romanian, when it was really a measly ~500 words. (To be fair, Romanian only gets one short Pimsleur level; bigger languages get several.) The phrases are also *overly* polite. When I shared with my family the way the course taught me, they all laughed. At least in Romanian, you come out sounding like Monty Python.
 
-Each stage feeds the next: LingQ reading exposes me to new words, Anki makes them stick, and listening trains my ear on sentences I already know.
+Each stage feeds the next: I **discover** new words reading in LingQ, **drill** them in Anki, and **decode** them by ear while listening to sentences I already know.
 
 ## My daily schedule
 

@@ -4,7 +4,9 @@ date = 2026-09-26T21:00:00-04:00
 draft = false
 +++
 
-This stage completes the pipeline: **exposure** in LingQ, **learning** in Anki, and now **reinforcement**. Every lesson I finish in LingQ gets added to its **active playlist**, and every day I just press play and listen through it.
+This stage completes the pipeline: **discover** words in LingQ, **drill** them in Anki, and **decode** them by ear. Listening is its own skill, so knowing a word on the page doesn't mean I'll catch it at full speed.
+
+Every lesson I finish in LingQ gets added to its **active playlist**, and every day I just press play and let it run. When it reaches the end, it wraps back around to the start. Once I'm far enough into the Mini Stories, I can't get through the whole playlist in one session, so I just pick up where I left off the next day.
 
 ![LingQ's Active Playlist on iPhone, showing Russian Mini Stories 31 through 41 queued up, each about 3–4 minutes long](/images/active_playlist.png)
 
