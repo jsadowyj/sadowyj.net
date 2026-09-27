@@ -124,7 +124,49 @@ You can count on all of these question coming up again someday, but the differen
 
 Do not spend more than a day on this. You are not going to catch everything, and that is OK. You may even read an entire article in the beginner section and not catch on thing. That's fine. Just skim through each of the articles under the beginner (A1) sections and whatever comes out of it, comes out of it.
 
-## The crux: LingQ
+## The crux: LingQ reading
+
+LingQ is going to be the foundation of your language learning. Their "Mini Stories" are an actual goldmine. That's where you are going to start. Sign up for their premium plan, because the free one is too limited for any amount of reasonable progress. Then go straight to the mini stories. This is step 1 of my pipeline: the exposure stage. You are going to be greeted with short stories describing different scenarios, from multiple perspectives. At this point, you will likely have zero known words, for the first lesson, just click on each word to see what it means. Keep clicking on the words, and reading the words in your target language so you can expose yourself to the new words.
+
+This part is very important: do not repeat lessons. I don't care if you only understood three words out of that entire story. **Keep going**. The essence of LingQ is to keep exposing yourself to the language. This is going to really suck when you're first starting out, because you're going to understand almost nothing, but that's where the next step in the pipeline comes in - Anki. But before we get there, you need to get into the following habit in LingQ so you don't blow up the Anki step.
+
+Every time you start a new lesson in LingQ, you need to navigate to the sidebar, and move every single "LingQ'd" word up **one** level. It doesn't matter whether that word has actually graduated to that level or not in your head (because you are also really bad at measuring that yourself). You are going to keep doing this until a word reaches level 3, at which point you should leave it alone until you actually understand it in a later read. Once you can see the word without clicking on it to see the english meaning, then set it to level 5. If you find yourself not making that jump between level 3 and 5 for a word, then it's time for a mnemonic assiciation, which I will detail in a later section.
+
+The reason I give this advice is having to make that spot-check decision for every single word is unnecessarily taxing. Really all you need to be concerned with is whether you know the word or not, which is super apparent, whereas "how well do I know this word?" is not an important detail by any means.
+
+So once you are done with a lesson in LingQ, it's time to bring all of your fresh unknown words into Anki. LingQ has a native feature to do this, but it's super lackluster in my experience. So I built a chrome extension to fill this gap: [Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe)
+
+This chrome extension grabs all of your lings at the statuses you set, and automatically imports them into Anki for studying. As a beginner, you should use the following settings <insert screenshot here>
+
+You will want to stick with only level 1 words because of the 80/20 rule: 80% of all of the text you are going to read is going to be the top 20% of words ranked by frequency (in most languages). In other words, you are going to have way more cards than you can study if you import a beginner word more than once. As you advance in level, then you can start including more word levels to import words into Anki with more context.
+
+## Aminte + Anki
+
+This is the second stage of the pipeline: the learning stage. This is where all of the learning and mental connections actually happen. Anki hacks your memory by showing you the missing words in each sentence, and you fill in the blanks. This is where you can actually make the leap from not understanding the language (i.e. translating everything) to actually understanding the language as is. As you do your flash cards every day, you will notice that the reading becomes substantially easier.
+
+If you pay for the optional TTS package with Aminte too, then it will further reinforce the sounds (and pronounciation, if you're into that like me) of the language.
+
+These are my anki settings that I recommend to use with Aminte: <insert screenshot here>
+
+## LingQ listening
+
+This is what completes the pipeline. LingQ has something called the "active playlist", every lesson that you complete will get slapped into there. And your job is to just press the play button every single day, and listen to your lingq lessons. I recommend pairing this with walks every day, especially outside if you can, because walking past the same scenery every day reinforces what you learned on previous days.
+
+With this pipeline, there is going to be lots of repitition. This might seem boring at first, but once you make it say halfway through the mini stories, there is actually going to be quite a bit of variety. And by the time you're halfway through the mini stories you are going to notice how much you understand the first mini story, which was absolutely gibberish to you before.
+
+So yeah, once you get through the mini stories, there are going to be more curated courses that you get to choose from. Choose whatever is most interesting to you.
+Eventually I'll make a blog post on what to do once you've reached an interemediate level, but if you stick to this schedule for 6 months, your going to be blown away by how much you understand.
+
+If you are going to implement this method yourself, I recommend setting aside 2 hours a day. Anki will take up most of your time: ~1hr, then \~30 minutes per LingQ lesson, and ~30 of listening to LingQ lessons.
 
 
+## Speaking
 
+So far I've only covered the reading and listening portion of learning a language, but haven't covered the most important (and difficult) part of learning a foreign language: speaking.
+
+My advice is don't be in a rush to speak. If you speak too early, you are going to solidify bad habits. I started speaking Romanian at around 3k known words in LingQ in Romanian, and that was too early. I would recommend starting at around 6k known words.
+
+When you are ready to start speaking, hopefully you have someone in your life that speaks the langauge. If you do, great, start speaking with them. But if you have the means, I highly recommend paying a tutor at iTalki for a few lessons per week.
+
+Some tips for Italki though:
+1. You need to be a little forceful at times. Teachers will want to bust out their powerpoint to teach you all of the grammar rules while you're paying them $20/hour. This is not a good use of your time or money. Your goal is to speak to them, no matter how bad it is, and have them correct you at opportune moments. Ask them to note down whatever mistakes they catch on their computer, and when you find yourself at a good pause, ask them to go over it with you. Don't let them ramble on about why something is wrong unless you specifically ask them. What this really boils down to is, to get better at speaking, you have to speak, and every minute spent not speaking in these lessons is precious.
