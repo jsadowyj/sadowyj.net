@@ -45,6 +45,14 @@ As a beginner, these are the settings I'd use:
 
 I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level I start including higher levels so I can see niche words in more contexts.
 
+That only works if I do things in the right order for each lesson:
+
+1. **Open the lesson and bump every existing LingQ up one level.** Now the only level 1 words left are ones I haven't saved before.
+2. **Read the lesson,** saving new words as I go.
+3. **Run Aminte right after I finish,** so it only picks up the words I just saved.
+
+If I ran Aminte before bumping the levels, words I'd saved in earlier lessons would still be at level 1 and get imported again as duplicates.
+
 ## Anki
 
 This is the second stage of the pipeline: **learning**. It's where the actual mental connections form.
