@@ -38,7 +38,7 @@ This choice has a big impact on how long learning takes, and most people never t
 
 The biggest one: when native speakers hear an accent, they subconsciously switch to more common words. This is a measured effect, not prejudice, and it makes conversations much easier.
 
-The only real payoff of a native accent is impressing people, and it costs a lot. I personally love nailing pronunciation, but I wouldn't recommend it to most people:
+The only real payoff of a native accent is impressing people *at first*, and it costs a lot. I personally love nailing pronunciation, but I wouldn't recommend it to most people:
 
 1. **It takes much longer.** Saying each word out loud adds seconds to every review, compared to a split second of just recognizing it.
 2. **Native speakers get frustrated,** which cancels out the impressing part. Their subconscious slow-down never kicks in, so when you ask them to slow down, they gradually speed back up until you have to ask again.
