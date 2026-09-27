@@ -10,7 +10,7 @@ This is the core of the method: the first two stages of my daily pipeline, **dis
 
 This is the foundation of the whole method, and the first stage of my daily pipeline: **discover**.
 
-I'm on LingQ's premium plan, because the free plan is too limited to make reasonable progress. I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand. That's the [grammar jargon]({{< relref "prep.md#english-grammar-jargon" >}}) paying off in real sentences.
+I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand.
 
 **Before reading your first lesson, turn off "Paging moves to known."** It's ridiculous that LingQ turns this on by default. Every time you turn the page, it marks every word you didn't click as known, which totally blows up the pipeline. Moving a word to known should always be a deliberate choice.
 
