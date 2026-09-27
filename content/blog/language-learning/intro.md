@@ -40,7 +40,7 @@ Speaking comes later, once I've built up a real vocabulary.
 
 ## Why this over other methods
 
-**The biggest reason: it works for almost any language.** LingQ supports a ton of languages, and that's why I ended up with this method in the first place. Romanian has very few learning resources, so I was pretty much forced into it. If you want to learn more than one language, this is the most versatile approach I've found, because I don't have to change my approach for each new one.
+**The biggest reason: it works for almost any language.** LingQ supports a ton of languages, and that's why I ended up with this method in the first place. Romanian has very few learning resources, so I was pretty much forced into it. If you want to learn more than one language, this is the most versatile approach I've found, because I don't have to change my approach for each new language.
 
 Here's how it compares to the approaches I hear about most:
 
