@@ -51,7 +51,7 @@ I think so. A leech I let stay suspended never gets as firmly set in my mind as 
 
 ## Why not just read more in LingQ?
 
-Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give you that.
+Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give you that. Anki also solves the problem of "when do I stop translating in my head?" The front of every cloze card is entirely in the target language, so I recall each word from the sentence around it, not from its English translation. After enough reviews, words connect straight to their meaning, and the translating stops on its own without me forcing it.
 
 ---
 
