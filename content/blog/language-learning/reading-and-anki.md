@@ -91,7 +91,7 @@ It happens to all of us! When I was moving, I fell way behind and ended up with 
 
 Some cards just won't stick without an extra nudge. This gets more common as I progress, because I start noticing that a second word would fit the sentence just as well as the "correct" one, and I keep mixing them up. Anki calls a card I keep failing a **leech**. Once a card hits the leech threshold, Anki *suspends* it, meaning it stops showing up in reviews until I fix it. I set the threshold to 4 instead of the default 8, so I don't have to fail a card eight times before I get to the fix.
 
-The fix: when a card is marked as a leech, I click **Edit** on it and fill in the **Cue** field, which then shows up under the sentence. The trick is to give myself the *smallest* hint that works. Writing the English translation would make the card too easy, so I try to find the minimum information I need to get it right next time. Two examples:
+The fix: when a card is marked as a leech, I click **Edit** on it and fill in the **Cue** field, which then shows up under the sentence. The trick is to give myself the *smallest* hint that works. Writing the English translation would make the card too easy, so I try to find the minimum information I need to get it right next time. A few examples:
 
 #### A mnemonic cue
 
@@ -107,6 +107,14 @@ This card was genuinely ambiguous, for two reasons:
 
 1. The blank could just as easily have been the present tense of решил (decided), so the cue says it's masculine past tense.
 2. "Decided" isn't the only verb that fits. "Wanted" works in this sentence just as well. So the cue also gives the infinitive, решать (to decide), and I write it in Russian, not English, so the card still makes me recall the word.
+
+#### An emoji cue
+
+![A leeched Anki card for the Russian sentence "Жанна видит чёрный компьютер?" (Does Zhanna see a black computer?), with a black circle emoji as the cue](/images/leech_3.png)
+
+This one is ambiguous because almost any adjective fits the blank. Zhanna could see a new computer, a big one, or a white one, and nothing in the sentence says it's black. So the cue is just a ⚫ emoji. It points at the meaning without handing me an English word to translate from.
+
+I recommend emojis for simple things like colors and common nouns (🍎, 🐕, 🏠). They're the smallest possible hint, and they keep the card entirely in the target language.
 
 #### Is it worth fixing leeches?
 
