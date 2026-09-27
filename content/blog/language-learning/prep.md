@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages, Part 2: Prep'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 Before the daily routine starts, I spend a few days on three things: grammar terms in English, the alphabet, and a quick skim of the grammar.

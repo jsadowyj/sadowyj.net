@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages, Part 1: Before Starting'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 There's no easy way to learn a language. You won't hear that from a YouTube video that's trying to sell you something, so this part is about realistic expectations.

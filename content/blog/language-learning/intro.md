@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 A lot of people have asked me how I learn languages, so here's the whole method written down.

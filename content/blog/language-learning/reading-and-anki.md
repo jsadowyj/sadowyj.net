@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages, Part 3: Reading and Anki'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 This is the core of the method: the first two stages of my daily pipeline.

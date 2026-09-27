@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages, Part 4: Listening'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 This stage completes the pipeline: **exposure** in LingQ, **learning** in Anki, and now **reinforcement**. Every lesson I finish in LingQ gets added to its **active playlist**, and every day I just press play and listen through it.

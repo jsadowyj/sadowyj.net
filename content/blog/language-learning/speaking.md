@@ -1,7 +1,7 @@
 +++
 title = 'How I Learn Languages, Part 5: Speaking'
 date = 2026-09-26T21:00:00-04:00
-draft = true
+draft = false
 +++
 
 Everything so far has been reading and listening. Speaking is the most important part of a language, and the hardest.
