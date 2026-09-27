@@ -55,7 +55,7 @@ That only works if I do things in the right order for each lesson:
 2. **Read the lesson,** saving new words as I go.
 3. **Run Aminte right after I finish,** so it only picks up the words I just saved.
 
-If you run Aminte before bumping the levels, words saved in earlier lessons would still be at level 1, and Aminte would make duplicate cards for them from this lesson's sentences.
+Within a single lesson, Aminte makes only one card per word, but it can't tell that a word from an earlier lesson already has a card. So if you run Aminte before bumping the levels, words saved in earlier lessons would still be at level 1, and you'd end up with two cards for the same word.
 
 ## Anki
 
