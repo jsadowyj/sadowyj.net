@@ -19,6 +19,7 @@ Even if I only understood three words of a story, **I keep going** to the next o
 LingQ rates every word you've saved from 1 (new) up to 5 (known). Every time I start a new lesson, I open the sidebar and move every LingQ'd word up **one** level, whether or not I feel I've actually learned it. (I'm bad at judging that anyway, and so is everyone else.)
 
 - I keep bumping each word until it reaches **level 3**, then leave it alone.
+    - Why not **level 4**? If you keep going until level 4, your "known words" count will be inflated.
 - Once I can read the word in a later lesson without clicking it, I mark it **known**.
 - If a word gets stuck between level 3 and known, that's my cue to come up with a [mnemonic](#mnemonics-for-stuck-words) for it.
 
@@ -34,11 +35,11 @@ For a deep dive into how to build these well, I recommend *Fluent Forever* by Ga
 
 After each lesson, I send the new words to Anki. LingQ has a built-in export, but I've found it lackluster, so I built a Chrome extension to fill the gap: [Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe). It grabs every LingQ at the levels you pick and imports them into Anki automatically.
 
-As a beginner, these are the settings I use:
+As a beginner, these are the settings I'd use:
 
-<!-- TODO: screenshot of Aminte settings -->
+[!aminte settings](/images/aminte_settings.png)
 
-I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, about 80% of any text is made up of the most frequent 20% of words. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level I start including higher levels so I get cards with more context.
+I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, about 80% of any text is made up of the most frequent 20% of words. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level I start including higher levels so I can see niche words in more contexts.
 
 ---
 
