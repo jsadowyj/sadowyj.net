@@ -18,6 +18,18 @@ I do a few days of prep up front: grammar terminology, the alphabet, and a quick
 
 Speaking comes later, once I've built up a real vocabulary.
 
+## My daily schedule
+
+If you want to try this yourself, I'd set aside about 2 hours a day:
+
+| Step | Time |
+|---|---|
+| Anki reviews | ~1 hour |
+| One new LingQ lesson | ~30 minutes |
+| Listening to the active playlist | ~30 minutes |
+
+If you can't commit 2 hours a day, I'd drop Anki and split 1 hour between LingQ reading and listening. Just know that this will slow your progress significantly.
+
 ## The tools I mention
 
 - **[LingQ](https://www.lingq.com)**: a paid reading and listening app. Every lesson comes with text and audio. You click unfamiliar words to see a translation, and it tracks how well you know each word on a scale from 1 (new) to known. A word you've saved for review is called a "LingQ."
