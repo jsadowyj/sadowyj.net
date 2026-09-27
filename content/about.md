@@ -21,7 +21,7 @@ Romanian is the one I've put the most into. Starting from zero, I'm past 16,000 
 
 ### homelab
 
-Three Intel NUCs running Talos Linux as a Kubernetes cluster, with every manifest in git and ArgoCD reconciling it. The network is all Unifi, (written in terraform too), so VLANs and firewall policy are all declaritive.
+Three Intel NUCs running Talos Linux as a Kubernetes cluster, with every manifest in git and ArgoCD reconciling it. The network is all Unifi (written in terraform too, so VLANs and firewall policy are all declarative).
 
 ### cooking
 
