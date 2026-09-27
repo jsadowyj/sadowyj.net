@@ -6,7 +6,12 @@ draft = true
 
 Everything so far has been reading and listening. Speaking is the most important part of a language, and the hardest.
 
-**I'm not in a rush to speak.** Starting too early locks in bad habits. I started speaking Romanian at around 3,000 known words in LingQ, and that was too early. I'd start at around 6,000.
+**I'm not in a rush to speak.** Starting too early locks in bad habits, mainly two:
+
+- **Leaning on the few words you know.** A small vocabulary means you keep circling the same words, and that's a hard habit to break later.
+- **Mistakes become automatic.** If you say the wrong gender or case ending enough times, it turns into a reflex that's hard to unlearn.
+
+I started speaking Romanian at around 3,000 known words in LingQ, and that was too early. I'd start at around 6,000.
 
 When I'm ready, I start with anyone in my life who speaks the language. If you can afford it, I highly recommend a tutor on [iTalki](https://www.italki.com) for a few lessons a week.
 

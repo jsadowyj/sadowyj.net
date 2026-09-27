@@ -18,6 +18,17 @@ I do a few days of prep up front: grammar terminology, the alphabet, and a quick
 
 Speaking comes later, once I've built up a real vocabulary.
 
+## Why this over other methods
+
+Here's how it compares to the approaches I hear about most:
+
+- **LingQ's own advice: just keep reading and listening.** It works, but slowly. A word only sticks after you happen to run into it enough times. My pipeline keeps LingQ for exposure and adds Anki, which brings each new word back right before I'd forget it.
+- **Learning from the couch** with a show-watching app, "like a baby." Audio you don't understand is mostly noise. I only listen to stories I've already read and drilled, so I understand what I'm hearing.
+- **Making my own flashcards** (sentence mining, as Refold teaches it). As a beginner, I couldn't tell which sentences were worth a card. When I wrote my own, I overthought them and they were often wrong, so I'd run each one through AI for corrections and then build the card by hand. It was slow. LingQ already has tons of curated content that I never have to second-guess, and Aminte turns those sentences into cards with one click.
+- **Audio courses** like Pimsleur. I did the Romanian course long before I started this method, and it put me at the peak of the Dunning–Kruger curve. I finished it thinking I knew a lot of Romanian, when it was really a measly ~500 words. The phrases are also *overly* polite. When I talked to my family the way the course taught me, they all laughed. At least in Romanian, you come out sounding like Monty Python.
+
+Each stage feeds the next: LingQ reading exposes me to new words, Anki makes them stick, and listening trains my ear on sentences I already know.
+
 ## My daily schedule
 
 If you want to try this yourself, I'd set aside about 2 hours a day:

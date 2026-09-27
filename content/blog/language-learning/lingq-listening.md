@@ -4,9 +4,11 @@ date = 2026-09-26T21:00:00-04:00
 draft = true
 +++
 
-This stage completes the pipeline. Every lesson I finish in LingQ gets added to its **active playlist**, and every day I just press play and listen through it.
+This stage completes the pipeline: **exposure** in LingQ, **learning** in Anki, and now **reinforcement**. Every lesson I finish in LingQ gets added to its **active playlist**, and every day I just press play and listen through it.
 
 ![LingQ's Active Playlist on iPhone, showing Russian Mini Stories 31 through 41 queued up, each about 3–4 minutes long](/images/active_playlist.png)
+
+Why re-listen to stories I've already read instead of finding new audio? Because I already know the text, the audio is understandable instead of noise. Anki has drilled those exact sentences into my head, and listening is where I learn to recognize them by ear.
 
 I pair this with a daily walk, outside if I can. Walking past the same scenery every day reinforces what I learned on the days before.
 

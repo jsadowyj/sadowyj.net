@@ -6,13 +6,13 @@ draft = true
 
 This is the foundation of the whole method, and the first stage of my daily pipeline: **exposure**.
 
-I'm on LingQ's premium plan, because the free plan is too limited to make reasonable progress. I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives.
+I'm on LingQ's premium plan, because the free plan is too limited to make reasonable progress. I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand. That's the [grammar jargon]({{< relref "grammar-jargon.md" >}}) paying off in real sentences.
 
 On the first lesson I know zero words, so I click every word to see what it means and keep reading the text in the target language. That's the whole job: expose yourself to new words.
 
 ## I don't repeat lessons
 
-Even if I only understood three words of a story, **I keep going** to the next one. LingQ is all about steady exposure. It's rough at the start because you understand almost nothing, but that's what the Anki step is for.
+Even if I only understood three words of a story, **I keep going** to the next one. LingQ is all about steady exposure. It's rough at the start because you understand almost nothing, but remembering is Anki's job, not LingQ's. Every word I saved from that story is already on its way into my flashcards, so re-reading it would just be time not spent on new words.
 
 ## The one habit that keeps Anki manageable
 
@@ -37,7 +37,7 @@ After each lesson, I send the new words to Anki. LingQ has a built-in export, bu
 
 As a beginner, these are the settings I'd use:
 
-[!aminte settings](/images/aminte_settings.png)
+![Aminte settings: 1 sentence of context, only word level 1 (New) checked, and audio on for both the word and the sentence](/images/aminte_settings.png)
 
 I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, about 80% of any text is made up of the most frequent 20% of words. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level I start including higher levels so I can see niche words in more contexts.
 
