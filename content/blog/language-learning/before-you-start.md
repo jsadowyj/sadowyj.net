@@ -16,7 +16,7 @@ I tune this advice out. It only slows you down.
 
 ## Duolingo
 
-Uninstall it. [This article](https://www.lingq.com/blog/can-you-become-fluent-with-duolingo/) covers why.
+In my experience, Duolingo is good for learning a language's alphabet, and not much else. Once you know the letters, I'd uninstall it. [This article](https://www.lingq.com/blog/can-you-become-fluent-with-duolingo/) covers why it won't get you much further.
 
 ## How long it takes
 
