@@ -6,7 +6,7 @@ draft = false
 
 Everything so far has been reading and listening. Speaking is the most important part of a language, and the hardest.
 
-**I'm not in a rush to speak.** Starting too early locks in bad habits, mainly two:
+**I'm not in a rush to speak.** Starting too early locked in bad habits for me. The two that stand out:
 
 - **Leaning on the few words you know.** A small vocabulary means you keep circling the same words, and that's a hard habit to break later.
 - **Mistakes become automatic.** If you say the wrong gender or case ending enough times, it turns into a reflex that's hard to unlearn.
@@ -17,7 +17,7 @@ When I'm ready, I start with anyone in my life who speaks the language. If you c
 
 ## Getting the most out of a tutor
 
-Sometimes I have to be a little forceful. In my experience, many tutors want to pull up a PowerPoint and walk through grammar rules while you pay them $20 an hour, which is a waste of both time and money. The only way to get better at speaking is to speak, so every minute of the lesson I spend not speaking is wasted.
+A tutor's incentives and mine don't line up. They want me to keep coming back, and I want to eventually speak without them, so I must drive the expectations myself. In my experience, many tutors want to pull up a PowerPoint and walk through grammar rules while you pay them $20 an hour, which I think is a waste of both time and money. The only way to get better at speaking is to speak, so every minute I spend not speaking is a minute lost.
 
 So I set it up like this:
 
@@ -25,6 +25,7 @@ So I set it up like this:
 - The tutor writes down my mistakes as I go instead of interrupting.
 - At natural pauses, I ask them to go over the list with me.
 - They only explain *why* something is wrong when I ask.
+  - No PowerPoint. I ask them to explain with example sentences instead.
 
 ---
 
