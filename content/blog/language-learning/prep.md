@@ -93,6 +93,8 @@ All of these questions will come up again. The difference is that next time I'll
 
 I don't spend more than a day on this. I'm not going to catch everything, and sometimes I'll read an entire article and catch nothing, which is fine. I skim every A1 article and take whatever sticks.
 
+Grammar usually comes back during my LingQ reading. When I notice something I'm curious about, I jot down a quick note, then ask AI about it while Aminte is importing that lesson's cards.
+
 ---
 
 [<- Part 1: Before starting]({{< relref "before-you-start.md" >}}) · [Part 3: Reading and Anki ->]({{< relref "reading-and-anki.md" >}})
