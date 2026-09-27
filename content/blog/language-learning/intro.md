@@ -18,14 +18,36 @@ I do a few days of prep up front: grammar terminology, the alphabet, and a quick
 
 Speaking comes later, once I've built up a real vocabulary.
 
+## The tools I mention
+
+- **[LingQ](https://www.lingq.com)**: a paid reading and listening app. Every lesson comes with text and audio. You click unfamiliar words to see a translation, and it tracks how well you know each word on a scale from 1 (new) to known. A word you've saved for review is called a "LingQ."
+- **[Anki](https://apps.ankiweb.net)**: a flashcard app that uses *spaced repetition*. It shows you each card right before you'd forget it, so reviews get further apart as a word sticks. It's free on desktop and Android.
+- **[Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe)**: a free Chrome extension I built that turns the words you save in LingQ into Anki flashcards. Since it's my own project, take my enthusiasm for it with that in mind.
+- **[elon.io](https://elon.io/grammar)**: free grammar guides, organized by level.
+- **[iTalki](https://www.italki.com)**: a marketplace for paid one-on-one tutors over video call.
+
+## What it costs
+
+| Tool | Cost (as of September 2026) |
+|---|---|
+| LingQ Premium | $14.99/month, or $119.99/year |
+| Anki | Free on desktop, web, and Android; $24.99 one time for iPhone/iPad |
+| Aminte | Free; the optional text-to-speech add-on is $10 one time |
+| elon.io | Free |
+| iTalki tutor (only once you start speaking) | Each tutor sets their own rate; I pay about $20/hour |
+
+**The daily loop costs about $120–$155 for the first year** on LingQ's annual plan: $120 for LingQ alone, or about $155 with the iPhone version of Anki and the text-to-speech add-on. Tutoring is the big variable later. At three $20 lessons a week, it comes to roughly $260 a month.
+
 ## Why this over other methods
+
+**The biggest reason: it works for almost any language.** LingQ supports a ton of languages, and that's why I ended up with this method in the first place. Romanian has very few learning resources, so I was pretty much forced into it. If you want to learn more than one language, this is the most versatile approach I've found, because I don't have to change my approach for each new one.
 
 Here's how it compares to the approaches I hear about most:
 
 - **LingQ's own advice: just keep reading and listening.** It works, but slowly. A word only sticks after you happen to run into it enough times. My pipeline keeps LingQ for exposure and adds Anki, which brings each new word back right before I'd forget it.
 - **Learning from the couch** with a show-watching app, "like a baby." Audio you don't understand is mostly noise. I only listen to stories I've already read and drilled, so I understand what I'm hearing.
 - **Making my own flashcards** (sentence mining, as Refold teaches it). As a beginner, I couldn't tell which sentences were worth a card. When I wrote my own, I overthought them and they were often wrong, so I'd run each one through AI for corrections and then build the card by hand. It was slow. LingQ already has tons of curated content that I never have to second-guess, and Aminte turns those sentences into cards with one click.
-- **Audio courses** like Pimsleur. I did the Romanian course long before I started this method, and it put me at the peak of the Dunning–Kruger curve. I finished it thinking I knew a lot of Romanian, when it was really a measly ~500 words. The phrases are also *overly* polite. When I talked to my family the way the course taught me, they all laughed. At least in Romanian, you come out sounding like Monty Python.
+- **Audio courses** like Pimsleur. I did the Romanian course long before I started this method, and it put me at the peak of the Dunning–Kruger curve. I finished it thinking I knew a lot of Romanian, when it was really a measly ~500 words. (To be fair, Romanian only gets one short Pimsleur level; bigger languages get several.) The phrases are also *overly* polite. When I shared with my family the way the course taught me, they all laughed. At least in Romanian, you come out sounding like Monty Python.
 
 Each stage feeds the next: LingQ reading exposes me to new words, Anki makes them stick, and listening trains my ear on sentences I already know.
 
@@ -41,25 +63,14 @@ If you want to try this yourself, I'd set aside about 2 hours a day:
 
 If you can't commit 2 hours a day, I'd drop Anki and split 1 hour between LingQ reading and listening. Just know that this will slow your progress significantly.
 
-## The tools I mention
-
-- **[LingQ](https://www.lingq.com)**: a paid reading and listening app. Every lesson comes with text and audio. You click unfamiliar words to see a translation, and it tracks how well you know each word on a scale from 1 (new) to known. A word you've saved for review is called a "LingQ."
-- **[Anki](https://apps.ankiweb.net)**: a flashcard app that uses *spaced repetition*. It shows you each card right before you'd forget it, so reviews get further apart as a word sticks. It's free on desktop and Android.
-- **[Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe)**: a Chrome extension I built that turns the words you save in LingQ into Anki flashcards.
-- **[elon.io](https://elon.io/grammar)**: free grammar guides, organized by level.
-- **[iTalki](https://www.italki.com)**: a marketplace for paid one-on-one tutors over video call.
-
 ## The parts
 
 1. [Before starting]({{< relref "before-you-start.md" >}}): how long it takes, Duolingo, and whether to care about an accent
-2. [English grammar jargon]({{< relref "grammar-jargon.md" >}}): 1–2 days
-3. [The alphabet]({{< relref "alphabet.md" >}}): a study session or two
-4. [Skimming the grammar]({{< relref "skim-the-grammar.md" >}}): no more than a day
-5. [LingQ reading]({{< relref "lingq-reading.md" >}}): daily, ~30 minutes
-6. [Anki]({{< relref "anki.md" >}}): daily, ~1 hour
-7. [LingQ listening]({{< relref "lingq-listening.md" >}}): daily, ~30 minutes
-8. [Speaking]({{< relref "speaking.md" >}}): starting around 6,000 known words
+2. [Prep]({{< relref "prep.md" >}}): grammar terms, the alphabet, and a grammar skim, over a few days
+3. [Reading and Anki]({{< relref "reading-and-anki.md" >}}): daily, ~1.5 hours
+4. [Listening]({{< relref "lingq-listening.md" >}}): daily, ~30 minutes
+5. [Speaking]({{< relref "speaking.md" >}}): starting around 6,000 known words
 
 ---
 
-[Part 1: Before starting →]({{< relref "before-you-start.md" >}})
+[Part 1: Before starting ->]({{< relref "before-you-start.md" >}})

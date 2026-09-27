@@ -36,15 +36,15 @@ My study time (399 hours) plus my listening time (315 hours) comes to about 714 
 
 This choice has a big impact on how long learning takes, and most people never think about it. Keeping an accent has real benefits that don't get talked about enough.
 
-The biggest one: when native speakers hear an accent, they subconsciously switch to more common words. This is a measured effect, not prejudice, and it makes conversations much easier.
+The biggest one: when native speakers hear an accent, they subconsciously slow down and switch to simpler, more common words. Linguists call this *foreigner-directed speech*, and it's not prejudice ([here's a short explainer](https://global-lt.com/blog/how-native-speakers-can-enhance-listening-comprehension-for-non-native-speakers)). It makes conversations much easier.
 
-The only real payoff of a native accent is impressing people *at first*, and it costs a lot. I personally love nailing pronunciation, but I wouldn't recommend it to most people:
+The only real payoff I noticed from a native accent is impressing people *at first*, and it costs a lot. I personally love nailing pronunciation, but I wouldn't recommend it to most people:
 
 1. **It takes much longer.** Saying each word out loud adds seconds to every review, compared to a split second of just recognizing it.
-2. **Native speakers get frustrated,** which cancels out the impressing part. Their subconscious slow-down never kicks in, so when you ask them to slow down, they gradually speed back up until you have to ask again.
+2. **Native speakers get frustrated,** at least in my experience, which cancels out the impressing part. Their subconscious slow-down never kicks in, so when you ask them to slow down, they gradually speed back up until you have to ask again.
 
 An accent isn't a failure. We aren't built to hear sounds that don't exist in our native language, and getting them right takes meticulous practice. [This video](https://www.youtube.com/watch?v=FcN3HnQz3y4) explains why really well.
 
 ---
 
-[← Intro]({{< relref "intro.md" >}}) · [Part 2: English grammar jargon →]({{< relref "grammar-jargon.md" >}})
+[<- Intro]({{< relref "intro.md" >}}) · [Part 2: Prep ->]({{< relref "prep.md" >}})

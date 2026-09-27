@@ -1,5 +1,5 @@
 +++
-title = 'How I Learn Languages, Part 7: LingQ Listening'
+title = 'How I Learn Languages, Part 4: Listening'
 date = 2026-09-26T21:00:00-04:00
 draft = true
 +++
@@ -10,7 +10,7 @@ This stage completes the pipeline: **exposure** in LingQ, **learning** in Anki, 
 
 Why re-listen to stories I've already read instead of finding new audio? Because I already know the text, the audio is understandable instead of noise. Anki has drilled those exact sentences into my head, and listening is where I learn to recognize them by ear.
 
-I pair this with a daily walk, outside if I can. Walking past the same scenery every day reinforces what I learned on the days before.
+I pair this with a daily walk, outside if I can. I find that walking past the same scenery every day helps the previous days' stories stick.
 
 There's a lot of repetition in this pipeline. It can feel boring at first, but about halfway through the Mini Stories there's real variety. That's also about when I noticed how much of the first story I understood, when it had been complete gibberish before.
 
@@ -24,7 +24,7 @@ What matters is listening consistently. I don't need to be 100% focused, and the
 
 This is the most common complaint about listening, and the answer is to listen more. If you've only had 10 hours of exposure to how a language sounds, of course fast speech is hard. The more you listen, the better you understand it. Period.
 
-Most people don't want to hear that. Listening is much harder than reading, and they want an easy way out. There isn't one. Consistency is the only thing that makes fast speech understandable.
+Listening is much harder than reading, and consistency is the only thing I've found that makes fast speech understandable.
 
 ## After the Mini Stories
 
@@ -32,4 +32,4 @@ LingQ has more curated courses to choose from, and I pick whatever interests me 
 
 ---
 
-[← Part 6: Anki]({{< relref "anki.md" >}}) · [Part 8: Speaking →]({{< relref "speaking.md" >}})
+[<- Part 3: Reading and Anki]({{< relref "reading-and-anki.md" >}}) · [Part 5: Speaking ->]({{< relref "speaking.md" >}})
