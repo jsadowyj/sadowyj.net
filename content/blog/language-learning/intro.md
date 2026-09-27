@@ -25,6 +25,7 @@ Speaking comes later, once I've built up a real vocabulary.
 - **[Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe)**: a free Chrome extension I built that turns the words you save in LingQ into Anki flashcards. Since it's my own project, take my enthusiasm for it with that in mind.
 - **[elon.io](https://elon.io/grammar)**: free grammar guides, organized by level.
 - **[iTalki](https://www.italki.com)**: a marketplace for paid one-on-one tutors over video call.
+- **[OmeTV](https://ome.tv)**: a free video chat site that pairs you with random strangers.
 
 ## What it costs
 
@@ -35,6 +36,7 @@ Speaking comes later, once I've built up a real vocabulary.
 | Aminte | Free; the optional text-to-speech add-on is $10 one time |
 | elon.io | Free |
 | iTalki tutor (only once you start speaking) | Each tutor sets their own rate; I pay about $20/hour |
+| OmeTV (only once you start speaking) | Free |
 
 **The daily loop costs about $120–$155 for the first year** on LingQ's annual plan: $120 for LingQ alone, or about $155 with the iPhone version of Anki and the text-to-speech add-on. Tutoring is the big variable later. At three $20 lessons a week, it comes to roughly $260 a month.
 
