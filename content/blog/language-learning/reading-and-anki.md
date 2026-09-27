@@ -12,6 +12,8 @@ This is the foundation of the whole method, and the first stage of my daily pipe
 
 I'm on LingQ's premium plan, because the free plan is too limited to make reasonable progress. I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand. That's the [grammar jargon]({{< relref "prep.md#english-grammar-jargon" >}}) paying off in real sentences.
 
+**Before reading your first lesson, turn off "Paging moves to known."** It's ridiculous that LingQ turns this on by default. Every time you turn the page, it marks every word you didn't click as known, which totally blows up the pipeline. Moving a word to known should always be a deliberate choice.
+
 On the first lesson I know zero words, so I click every word to see what it means and keep reading the text in the target language. That's the whole job: expose yourself to new words.
 
 ### I don't repeat lessons
@@ -39,6 +41,8 @@ For a deep dive into how to build these well, I recommend *Fluent Forever* by Ga
 
 After each lesson, I send the new words to Anki. LingQ has a built-in export, but I've found it lackluster, so I built a free Chrome extension to fill the gap: [Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe). It grabs every LingQ at the levels you pick and imports them into Anki automatically.
 
+Aminte runs on a computer. It needs Anki's desktop app running with the free AnkiConnect add-on, plus LingQ logged in in the same Chrome browser. After sending cards, I sync Anki to get them onto my phone. The [FAQ](https://aminte-ext.com/faq.txt) walks through most snags, and my [LingQ forum post](https://forum.lingq.com/t/aminte-the-lingq-to-anki-workflow-id-wished-existed/2621869) explains more about what it is and how it works, including a demo video.
+
 As a beginner, these are the settings I'd use:
 
 ![Aminte settings: 1 sentence of context, only word level 1 (New) checked, and audio on for both the word and the sentence](/images/aminte_settings.png)
@@ -51,7 +55,7 @@ That only works if I do things in the right order for each lesson:
 2. **Read the lesson,** saving new words as I go.
 3. **Run Aminte right after I finish,** so it only picks up the words I just saved.
 
-If I ran Aminte before bumping the levels, words I'd saved in earlier lessons would still be at level 1 and get imported again as duplicates.
+If you run Aminte before bumping the levels, words saved in earlier lessons would still be at level 1, and Aminte would make duplicate cards for them from this lesson's sentences.
 
 ## Anki
 
@@ -60,6 +64,10 @@ This is the second stage of the pipeline: **drill**. It's where the actual menta
 Aminte makes *cloze* cards: each card shows a full sentence from a LingQ lesson with the new word blanked out, and I fill in the blank. Anki's spaced repetition then schedules each card to come back right before I'd forget it. This is where I make the jump from translating everything in my head to understanding the language directly. As I keep up with the daily reviews, the reading in LingQ gets noticeably easier.
 
 Aminte also has an optional text-to-speech add-on ($10, one time) that reads the sentences aloud. It reinforces how the language sounds, and helps with pronunciation too, if you care about that like I do.
+
+### Working on pronunciation
+
+If you don't want an accent, keep audio on while reviewing. After filling in the word, say the whole sentence out loud, and repeat it until you nail the pronunciation. It makes reviews slower, which is the tradeoff I describe in [Part 1]({{< relref "before-you-start.md#deciding-whether-i-care-about-an-accent" >}}).
 
 ### My Anki settings
 
@@ -74,6 +82,10 @@ The ones that matter most:
 - **30 new cards a day, with no cap on reviews.** I'd rather clear every review due that day than let them pile up.
 - **FSRS on, at 90% retention.** FSRS is Anki's newer scheduling algorithm. It adapts to how you actually remember cards.
 - **Leech threshold of 4, set to suspend.** More on this below.
+
+### Falling behind
+
+It happens to all of us! When I was moving, I fell way behind and ended up with a huge backlog of reviews. I set new cards per day to 0 and chipped away at the backlog by reviewing about 100 cards a day until it was gone.
 
 ### Leeches
 

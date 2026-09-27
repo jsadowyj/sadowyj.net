@@ -45,6 +45,8 @@ The only real payoff I noticed from a native accent is impressing people *at fir
 
 An accent isn't a failure. We aren't built to hear sounds that don't exist in our native language, and getting them right takes meticulous practice. [This video](https://www.youtube.com/watch?v=FcN3HnQz3y4) explains why really well.
 
+If you decide you do want to lose the accent, [here's how I practice pronunciation]({{< relref "reading-and-anki.md#working-on-pronunciation" >}}).
+
 ---
 
 [<- Intro]({{< relref "intro.md" >}}) · [Part 2: Prep ->]({{< relref "prep.md" >}})
