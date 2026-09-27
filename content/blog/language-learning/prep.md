@@ -64,7 +64,7 @@ I also don't skip this step and just let LingQ's text-to-speech read every word 
 
 How I handle this step can make the difference between sticking with a language and quitting. **I don't study grammar intensely until I've had a lot of exposure to the language.** Without a baseline, grammar rules have nothing to attach to, and trying to apply them anyway just leads to frustration. This is where high school and college courses lose a lot of people. My guess is that schools don't teach it this way because there's no fair way to grade it. [This video](https://www.youtube.com/watch?v=STYcCNcs_vo) looks at whether college language learning is actually backed by science.
 
-Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/grammar), and I mean skim. If something doesn't click after one or two reads, I move on to the next section. Two examples of what I take away:
+Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/grammar), and I mean skim. If something doesn't click after one or two reads, I move on to the next section. The goal isn't to learn the rules. It's to train myself on *what to notice*: which parts of a sentence should stand out when I run into them later in LingQ. Steve Kaufmann, LingQ's co-founder, calls this [the ability to notice](https://www.youtube.com/watch?v=2_MjQJDs8Xg), and he's the one who popularized the term in the language learning community. Two examples of what I take away:
 
 [Russian adjective agreement](https://elon.io/grammar/russian/adjectives/agreement/overview):
 
