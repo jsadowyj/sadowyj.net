@@ -32,7 +32,7 @@ It's the most boring step, but it's also one of the highest-ROI ones, so I don't
 
 ## The alphabet
 
-My method involves a lot of reading, so the first real study session goes to memorizing the sounds of the alphabet. The details vary by language, but I look for a video that goes through each letter one at a time and then shows plenty of example words. [This one](https://www.youtube.com/watch?v=olQh39MoJsQ) is a great example of the format.
+My method involves a lot of reading, so the first real study session goes to memorizing the sounds of the alphabet. The details vary by language, but I look for a video that goes through each letter one at a time and then shows plenty of example words. [This one](https://www.youtube.com/watch?v=m8NXjc5tcyc) is a great example of the format.
 
 ### Why I don't learn from sound tables
 
