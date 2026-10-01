@@ -8,7 +8,7 @@ This is the core of the method: the first two stages of my daily pipeline, **dis
 
 ## LingQ reading
 
-This is the foundation of the whole method, and the first stage of my daily pipeline: **discover**.
+This is the first stage of my daily pipeline: **discover**.
 
 I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're short stories covering everyday scenarios, and each one is retold from several perspectives. That retelling is what makes them so good. The same story comes back in a different person or tense ("he went" becomes "I went"), so I see the same words in different forms, side by side, in a story I already understand.
 
@@ -63,7 +63,7 @@ Within a single lesson, Aminte makes only one card per word, but it can't tell t
 
 ## Anki
 
-This is the second stage of the pipeline: **drill**. It's where the actual mental connections form.
+This is the second stage of the pipeline: **drill**. LingQ gives me the variety, and this is where I lock in retention.
 
 Aminte makes *cloze* cards: each card shows a full sentence from a LingQ lesson with the new word blanked out, and I fill in the blank. Anki's spaced repetition then schedules each card to come back right before I'd forget it. This is where I make the jump from translating everything in my head to understanding the language directly. As I keep up with the daily reviews, the reading in LingQ gets noticeably easier.
 
