@@ -30,6 +30,18 @@ Listening is much harder than reading, and consistency is the only thing I've fo
 
 [This video](https://www.youtube.com/watch?v=TazDjszosQU) explains it really well with a Guitar Hero analogy. If you never move up from Medium because Hard looks too fast, you'll never get to Expert. Hard feels impossible at first because your eyes and fingers haven't seen those patterns yet, and the only way to get used to them is to keep playing at that speed. Fast speech works the same way. It only sounds too fast until you've heard enough of it, so keep listening to speech that feels slightly out of reach.
 
+## Tolerating ambiguity
+
+Sometimes a word stands out while I'm listening. I half-recognize it, or I can tell it matters to the sentence, and I feel like I should know it. The urge is to stop and look it up. **I don't.** I let it go and keep listening.
+
+The next time that word comes around and I still can't place it, the itch gets a little worse. By the time I finally meet it in Anki or LingQ, I've been annoyed at it for days, and those are the words that stick best for me. A word I look up the moment I hear it never gets that chance to build up. This is my experience, not a proven technique.
+
+It's part of a bigger skill: tolerating ambiguity. Studies find that [learners who tolerate ambiguity](https://udspace.udel.edu/items/1b5fecde-bfd1-4082-8321-a1c26bcbab1a) do better at listening in a second language, because they go after the overall meaning instead of getting stuck on individual words.
+
+I was bad at this when I started Romanian. Whenever I listened to something I couldn't fully understand, I got frustrated. As I've progressed, I've made peace with it by focusing on what I *do* understand instead of what I don't.
+
+I think the real problem with listening is that it isn't nearly as measurable. Anki hands me an artifact every day: I learned 30 new words. Listening gives me nothing like that. I'd guess I pick up just as many new things each time I listen, but none of it gets counted, so it's easy to feel like nothing is happening. Knowing that makes it easier to keep going while I only catch half of what's said.
+
 ## After the Mini Stories
 
 LingQ has more courses to choose from, and I pick whatever interests me most. As you move through the fluency levels, the content gets more relevant to you, and eventually more personal: you can read what you're actually interested in instead of guided beginner material. I'll write a separate post someday about what to do once you reach an intermediate level, but if you stick with this for 6 months, you'll be blown away by how much you understand.
