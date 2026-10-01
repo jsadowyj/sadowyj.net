@@ -51,7 +51,7 @@ As a beginner, these are the settings I'd use:
 
 ![Aminte settings: 1 sentence of context, only word level 1 (New) checked, and audio on for both the word and the sentence](/images/aminte_settings.png)
 
-I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level I start including higher levels so I can see niche words in more contexts.
+I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level do I start including higher levels so I can see niche words in more contexts.
 
 That only works if I do things in the right order for each lesson:
 
@@ -71,7 +71,7 @@ Aminte also has an optional text-to-speech add-on ($10, one time) that reads the
 
 ### Working on pronunciation
 
-If you don't want an accent, keep audio on while reviewing. After filling in the word, say the whole sentence out loud, and repeat it until you nail the pronunciation. It makes reviews slower, which is the tradeoff I describe in [Part 1]({{< relref "before-you-start.md#deciding-whether-i-care-about-an-accent" >}}).
+If you don't want an accent, keep audio on while reviewing. After filling in the word, say the whole sentence out loud and repeat it until you nail the pronunciation. It makes reviews slower, which is the tradeoff I describe in [Part 1]({{< relref "before-you-start.md#deciding-whether-i-care-about-an-accent" >}}).
 
 ### My Anki settings
 
