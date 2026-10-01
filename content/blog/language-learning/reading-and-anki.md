@@ -16,9 +16,13 @@ I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're s
 
 On the first lesson I know zero words, so I click every word to see what it means and keep reading the text in the target language. That's the whole job: expose yourself to new words.
 
-### I don't repeat lessons
+### I don't repeat individual lessons
 
 Even if I only understood three words of a story, **I keep going** to the next one. LingQ is all about steady exposure. It's rough at the start because you understand almost nothing, but remembering is Anki's job, not LingQ's. Every word I saved from that story is already on its way into my flashcards, so re-reading it would just be time not spent on new words.
+
+### But I do repeat courses
+
+Whole courses are worth repeating, especially after you've finished a set of different courses. It's useful to go back to the Mini Stories, and in my experience, by your 3rd or 4th repetition you'll fly through them. It's also how I [keep LingQ and Anki in balance]({{< relref "intro.md#my-daily-schedule" >}}) when I get far ahead in LingQ.
 
 ### The one habit that keeps Anki manageable
 
@@ -82,6 +86,16 @@ The ones that matter most:
 - **30 new cards a day, with no cap on reviews.** I'd rather clear every review due that day than let them pile up.
 - **FSRS on, at 90% retention.** FSRS is Anki's newer scheduling algorithm. It adapts to how you actually remember cards.
 - **Leech threshold of 4, set to suspend.** More on this below.
+- **The display order settings.** These control what order cards show up in, and I set them on purpose (see below).
+
+### Why my display order settings matter
+
+The second screenshot above shows the display order section. Here's what I chose and why:
+
+- **New cards: Show after reviews.** I always clear what's due before touching anything new. If I run out of time, the cards that get skipped are new ones, which can wait, not old ones I'm about to forget.
+- **New card sort order: Random.** Cards from the same lesson would otherwise show up back to back, and the sentences from one story give each other away. Shuffling them makes me recall each word on its own.
+- **Interday learning cards: Show before reviews.** Cards I failed recently are still fresh, so I go through them first, while there's the best chance they'll stick.
+- **Review sort order: Descending retrievability.** I start with the cards I'm most likely to remember, which gets me warmed up and into a rhythm before the harder ones.
 
 ### Falling behind
 
@@ -122,7 +136,11 @@ I think so. A leech I let stay suspended never gets as firmly set in my mind as 
 
 ### Why not just read more in LingQ?
 
-Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give you that. Anki also solves the problem of "when do I stop translating in my head?" The front of every cloze card is entirely in the target language, so I recall each word from the sentence around it, not from its English translation. After enough reviews, words connect straight to their meaning, and the translating stops on its own without me forcing it.
+Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give you that.
+
+Anki also pushes me away from translating in my head. The front of every cloze card is entirely in the target language, so I recall each word from the sentence around it, not from its English translation. After enough reviews, words connect straight to their meaning, and the translating fades on its own without me forcing it.
+
+Each card shows a word in only one sentence, so Anki can't do this job alone. And LingQ can't do it alone either, because with reading alone you're at the mercy of a word happening to show up again before you forget it. The two tools have different roles: **LingQ gives me the variety**, with the same word showing up in new lessons, forms, and contexts, and **Anki gives me the retention**, bringing each word back right before I'd forget it. Each one covers the other's weakness, which is why I use them together.
 
 ---
 

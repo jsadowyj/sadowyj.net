@@ -46,23 +46,28 @@ Speaking comes later, once I've built up a real vocabulary.
 
 Here's how it compares to the approaches I hear about most:
 
-- **LingQ's own advice: just keep reading and listening.** It works, but slowly. A word only sticks after you happen to run into it enough times. My pipeline keeps LingQ for exposure and adds Anki, which brings each new word back right before I'd forget it.
+- **LingQ's own advice: just keep reading and listening.** It works, but slowly. Research on learning words through reading finds that it takes roughly 10 or more encounters before a word reliably sticks (see [this meta-analysis on repetition](https://onlinelibrary.wiley.com/doi/abs/10.1111/lang.12343)), and some studies (like Waring & Takaki, 2003) find more than 20 are needed, depending on what you count as "knowing" the word. In plain reading, those encounters come whenever the word happens to show up again. Anki spaces them for you, showing each word right at the interval where I'm about to forget it, so I need far fewer exposures. That seems like the more efficient way to spend my time. My pipeline keeps LingQ for exposure and adds Anki for the repetition.
 - **Passive immersion:** putting on shows and hoping the language sinks in, the way it supposedly does for babies. Audio you don't understand is mostly noise. I only listen to stories I've already read and drilled, so I'm more likely to understand what I'm hearing.
 - **Sentence mining,** (Refold method): pulling sentences you come across in native content into Anki. I felt a lot of pressure to decide which sentences were worth a card, and I had no good way to check whether I'd already made a card for that word. I suspect a tool like [Migaku](https://migaku.com) solves this, and it would probably work for me if it supported the languages I want to learn.
-- **Writing my own flashcards.** I didn't know what I didn't know, so my sentences were often grammatically incorrect. I'd run each one through AI for corrections and then build the card by hand. It felt super slow, like I was spending more time crafting the perfect card than actually learning it. My pipeline avoids both problems: LingQ's content is already curated, so I never second-guess it, and Aminte turns those sentences into cards with one click.
+- **Writing my own flashcards.** I didn't know what I didn't know, so my sentences were often grammatically incorrect. I'd run each one through AI for corrections and then build the card by hand. It felt super slow, like I was spending more time crafting the perfect card than actually learning it. My pipeline avoids both problems: LingQ's content is already relevant to my level, so I never second-guess it, and Aminte turns those sentences into cards with one click.
 - **Audio courses** like Pimsleur. I did the Romanian course long before I started this method, and it put me at the peak of the Dunning–Kruger curve. I finished it thinking I knew a lot of Romanian, when it was really a measly ~500 words. (To be fair, Romanian only gets one short Pimsleur level; bigger languages get several.) The phrases are also *overly* polite. When I shared with my family the way the course taught me, they all laughed. At least in Romanian, you come out sounding like Monty Python.
 
-With this method, each stage feeds the next: I **discover** new words reading in LingQ, **drill** them in Anki, and **decode** them by ear while listening to sentences I already know.
+With this method, each stage feeds the next: I **discover** new words reading in LingQ, **drill** them in Anki, and **decode** them by ear by listening to stories I already know.
 
 ## My daily schedule
 
-If you want to try this yourself, I'd set aside about 2 hours a day:
+If you want to try this yourself, I'd set aside about 2 hours a day. Treat these numbers as a starting point, not a rule:
 
 | Step | Time |
 |---|---|
 | Anki reviews | ~1 hour |
 | One new LingQ lesson | ~30 minutes |
 | Listening to the active playlist | ~30 minutes |
+
+When you're starting out, you'll notice you progress much further in LingQ than you do with 30 new words a day in Anki. The answer is not setting 100 new cards a day in Anki 😄. You'll hate yourself when you have 400 daily reviews at your peak and it takes 3 hours to finish your deck every day. Instead, I adjust the schedule to keep the two in balance:
+
+- **If Anki is falling behind LingQ,** I skip the LingQ reading for the day and make up for it with another 30 minutes of listening, so Anki can catch up.
+- **If I'm much further ahead in LingQ than in Anki,** I wrap around within the same course, starting again from lesson 1 and re-reading it. When that wraparound happens to you, you'll finally see what your effort so far has added up to.
 
 If you can't commit 2 hours a day, I'd drop Anki and split 1 hour between LingQ reading and listening. Just know that this will slow your progress significantly.
 

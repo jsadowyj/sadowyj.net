@@ -12,7 +12,7 @@ Lots of people online say all it takes is a lingopie subscription and vegetating
 
 ![SpongeBob reading a scroll of what learning like a baby actually requires: 24 hours of free time a day, two adults to feed you and change your diapers, patient native speakers, praise for every sound, and about 3 years before intelligible phrases](/images/baby_meme.jpg)
 
-I tune this advice out. It only slows you down.
+I'd tune this advice out. It only slows you down.
 
 ## Duolingo
 

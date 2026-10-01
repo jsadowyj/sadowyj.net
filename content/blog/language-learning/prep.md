@@ -8,7 +8,7 @@ Before the daily routine starts, I spend a few days on three things: grammar ter
 
 ## English grammar jargon
 
-The language learning community seriously underrates this step. Almost every explanation for "why did this word just change form?" is written in grammar jargon, so knowing what I know now, I'd learn the jargon in English first. Learning these concepts for the first time *through* a language you don't understand yet is slow. This takes a day or two at most.
+The language learning community seriously underrates this step. Almost every explanation for "why did this word just change form?" is written in grammar jargon, so knowing what I know now, I'd learn the jargon in English first. Learning these concepts for the first time *through* a language you don't understand yet is inefficient. This takes a day or two at most.
 
 For example, do you know why we say "he gave it to *me*" and not "he gave it to *I*"? That difference matters a lot once you're learning a whole new set of pronouns.
 
@@ -19,8 +19,6 @@ For example, do you know why we say "he gave it to *me*" and not "he gave it to 
 - **Sentence roles:** subject, direct object, indirect object.
   - *Why it matters:* grammatical cases (nominative, accusative, dative, and so on) are just markers for these roles. Once you see which pronouns go with which case, the picture is already complete.
 - **Person and number:** 1st/2nd/3rd person, singular/plural.
-  - One that surprises people: "we" is 1st person plural.
-  - English has no dedicated 2nd person plural. If your language has one, "y'all" is the closest match when you're running a phrase through Google Translate.
 - **Gender and agreement:** English barely has these, but many languages make adjectives, articles, and verbs "agree" with a noun's gender and number.
 - **Tense vs. aspect:** tense is *when* something happens (past, present, future). Aspect is *how* it unfolds: finished or ongoing (perfective/imperfective), progressive, perfect. English has a mind-boggling number of combinations.
 - **Mood:** indicative (facts), imperative (commands), conditional ("would"), subjunctive (wishes and doubt, as in "if I were"). The subjunctive catches a lot of English speakers off guard, because English uses it in odd ways that don't map well onto other languages.
@@ -29,6 +27,11 @@ For example, do you know why we say "he gave it to *me*" and not "he gave it to 
 - **Clauses:** main vs. subordinate clauses, and relative clauses ("the book *that I read*").
 
 It's the most boring step, but it's also one of the highest-ROI ones, so I don't overcomplicate it. I'd paste this list into an AI chat and ask for a short explanation of each topic, with a couple of example sentences for each.
+
+### Quick tips
+
+- **"We" is 1st person plural.** This one surprises people.
+- **"Y'all" is the closest English match for a 2nd person plural.** English has no dedicated one, so if your language has one, use "y'all" when you're running a phrase through Google Translate.
 
 ## The alphabet
 
@@ -58,11 +61,11 @@ The "approximate sounds" are exactly that: approximations. Some sounds don't exi
 2. **Play the audio clip** on the Wikipedia page for that IPA symbol.
 3. **If I still can't get it,** I watch the University of Glasgow's [Seeing Speech](https://www.seeingspeech.ac.uk/ipa-charts/?chart=4&datatype=4&speaker=1) MRI videos, which show exactly where the tongue and mouth go for each sound.
 
-I also don't skip this step and just let LingQ's text-to-speech read every word to me. As a beginner, it's hard to tell which sounds belong to which letters, which is why I give this a dedicated session or two.
+I wouldn't skip this step and just let LingQ's text-to-speech read every word to me. As a beginner, it's hard to tell which sounds belong to which letters, which is why I give this a dedicated session or two.
 
 ## Skimming the grammar
 
-How I handle this step can make the difference between sticking with a language and quitting. **I don't study grammar intensely until I've had a lot of exposure to the language.** Without a baseline, grammar rules have nothing to attach to, and trying to apply them anyway just leads to frustration. This is where high school and college courses lose a lot of people. My guess is that schools don't teach it this way because there's no fair way to grade it. [This video](https://www.youtube.com/watch?v=STYcCNcs_vo) looks at whether college language learning is actually backed by science.
+How I handle this step can make the difference between sticking with a language and quitting. **I don't study grammar intensely until I've had a lot of exposure to the language.** Without a baseline, grammar rules have nothing to attach to, and trying to apply them anyway just leads to frustration. This is where high school and college courses lose a lot of people. [This video](https://www.youtube.com/watch?v=STYcCNcs_vo) looks at whether college language learning is actually backed by science.
 
 Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/grammar), and I mean skim. If something doesn't click after one or two reads, I move on to the next section. The goal isn't to learn the rules. It's to train myself on *what to notice*: which parts of a sentence should stand out when I run into them later in LingQ. Steve Kaufmann, LingQ's co-founder, calls this [the ability to notice](https://www.youtube.com/watch?v=2_MjQJDs8Xg), and he's the one who popularized the term in the language learning community. Two examples of what I take away:
 

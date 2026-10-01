@@ -18,7 +18,7 @@ There's a lot of repetition in this pipeline. It can feel boring at first, but a
 
 ## Not understanding everything is normal
 
-Reading, listening, and speaking are three separate skills, and each one has to be trained on its own. With this method, reading comes fastest, then listening, then speaking, so my listening is always behind my reading. That's expected.
+Reading, listening, and speaking are three separate skills, and each one has to be trained on its own. With this method, reading comes fastest, then listening, then speaking, so my listening is always behind my reading, and my speaking is always behind my listening. That's expected.
 
 What matters is listening consistently. I don't need to be 100% focused, and there's no right or wrong way to do it. If I keep listening, I gradually understand more.
 
@@ -28,9 +28,11 @@ This is the most common complaint about listening, and the answer is to listen m
 
 Listening is much harder than reading, and consistency is the only thing I've found that makes fast speech understandable.
 
+[This video](https://www.youtube.com/watch?v=TazDjszosQU) explains it really well with a Guitar Hero analogy. If you never move up from Medium because Hard looks too fast, you'll never get to Expert. Hard feels impossible at first because your eyes and fingers haven't seen those patterns yet, and the only way to get used to them is to keep playing at that speed. Fast speech works the same way. It only sounds too fast until you've heard enough of it, so keep listening to speech that feels slightly out of reach.
+
 ## After the Mini Stories
 
-LingQ has more curated courses to choose from, and I pick whatever interests me most. I'll write a separate post someday about what to do once you reach an intermediate level, but if you stick with this for 6 months, you'll be blown away by how much you understand.
+LingQ has more courses to choose from, and I pick whatever interests me most. As you move through the fluency levels, the content gets more relevant to you, and eventually more personal: you can read what you're actually interested in instead of guided beginner material. I'll write a separate post someday about what to do once you reach an intermediate level, but if you stick with this for 6 months, you'll be blown away by how much you understand.
 
 ---
 
