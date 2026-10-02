@@ -92,7 +92,7 @@ Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/
 
 I don't remember the tiniest bit of German from high school, but my takeaway is that German adjectives *sometimes* take an ending. When and why can wait.
 
-All of these questions will come up again. The difference is that next time I'll have a real sentence to connect them to, and that's the essence of grammar study: it has to be tied to your own reading.
+All of these questions will come up again. The difference is that next time I'll have a real sentence to connect them to, and that's the essence of grammar study: it has to be tied to what I'm actually reading.
 
 I don't spend more than a day on this. I'm not going to catch everything, and sometimes I'll read an entire article and catch nothing, which is fine. I skim every A1 article and take whatever sticks.
 

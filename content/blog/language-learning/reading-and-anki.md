@@ -14,7 +14,7 @@ I start with LingQ's **Mini Stories**, which are an absolute goldmine. They're s
 
 **Before reading your first lesson, turn off "Paging moves to known."** It's ridiculous that LingQ turns this on by default. Every time you turn the page, it marks every word you didn't click as known, which totally blows up the pipeline. Moving a word to known should always be a deliberate choice.
 
-On the first lesson I know zero words, so I click every word to see what it means and keep reading the text in the target language. That's the whole job: expose yourself to new words.
+On the first lesson I know zero words, so I click every word to see what it means and keep reading the text in the target language. That's the whole job: expose myself to new words.
 
 ### I don't repeat individual lessons
 
@@ -136,7 +136,7 @@ I think so. A leech I let stay suspended never gets as firmly set in my mind as 
 
 ### Why not just read more in LingQ?
 
-Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give you that.
+Anki pays off most once I start speaking. When I blank on a word mid-sentence, I can usually remember a card it appeared on and replay that whole sentence in my head until the word comes back. The "just read a ton" approach that LingQ pushes can't give me that.
 
 Anki also pushes me away from translating in my head. The front of every cloze card is entirely in the target language, so I recall each word from the sentence around it, not from its English translation. After enough reviews, words connect straight to their meaning, and the translating fades on its own without me forcing it.
 

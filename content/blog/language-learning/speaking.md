@@ -17,7 +17,7 @@ When I'm ready, I start with anyone in my life who speaks the language. If you c
 
 ## Getting the most out of a tutor
 
-A tutor's incentives and a learner's don't line up. Tutors do better when you keep coming back, but the goal is to eventually speak without them, so the learner has to drive the expectations. In my experience, many tutors want to pull up a PowerPoint and walk through grammar rules while you pay them $20 an hour, which I think is a waste of both time and money. The only way to get better at speaking is to speak, so the goal of every lesson is to maximize the time you spend speaking.
+A tutor's incentives and a learner's don't line up. Tutors do better when you keep coming back, but the goal is to eventually speak without them, so the learner has to drive the expectations. In my experience, many tutors want to pull up a PowerPoint and walk through grammar rules while charging $20 an hour, which I think is a waste of both time and money. The only way to get better at speaking is to speak, so the goal of every lesson is to maximize the time you spend speaking.
 
 So I set it up like this:
 
