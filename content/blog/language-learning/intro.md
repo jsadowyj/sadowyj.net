@@ -20,7 +20,7 @@ Speaking comes later, once I've built up a real vocabulary.
 
 ## The tools I mention
 
-- **[LingQ](https://www.lingq.com)**: a paid reading and listening app. Every lesson comes with text and audio. You click unfamiliar words to see a translation, and it tracks how well you know each word on a scale from 1 (new) to known. A word you've saved for review is called a "LingQ."
+- **[LingQ](https://www.lingq.com)**: a paid reading and listening app. Every lesson comes with text and audio. You click unfamiliar words to see a translation, and it tracks how well you know each word on a scale from 1 (new) to 5 (known). A word you've saved for review is called a "LingQ."
 - **[Anki](https://apps.ankiweb.net)**: a flashcard app that uses *spaced repetition*. It shows you each card right before you'd forget it, so reviews get further apart as a word sticks. It's free on desktop and Android.
 - **[Aminte](https://chromewebstore.google.com/detail/aminte-anki-cloze-cards-f/lhejbifkielekmlbibjapplojjiboahe)**: a free Chrome extension I built that turns the words you save in LingQ into Anki flashcards. Since it's my own project, take my enthusiasm for it with that in mind.
 - **[elon.io](https://elon.io/grammar)**: free grammar guides, organized by level.
