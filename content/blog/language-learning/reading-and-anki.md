@@ -59,7 +59,7 @@ That only works if I do things in the right order for each lesson:
 2. **Read the lesson,** saving new words as I go.
 3. **Run Aminte right after I finish,** so it only picks up the words I just saved.
 
-Within a single lesson, Aminte makes only one card per word, but it can't tell that a word from an earlier lesson already has a card. So if you run Aminte before bumping the levels, words saved in earlier lessons would still be at level 1, and you'd end up with two cards for the same word.
+With **First occurrence only** turned on (under Advanced settings), Aminte makes only one card per word within a single lesson, but it can't tell that a word from an earlier lesson already has a card. So if you run Aminte before bumping the levels, words saved in earlier lessons would still be at level 1, and you'd end up with two cards for the same word.
 
 ## Anki
 
@@ -67,7 +67,9 @@ This is the second stage of the pipeline: **drill**. LingQ gives me the variety,
 
 Aminte makes *cloze* cards: each card shows a full sentence from a LingQ lesson with the new word blanked out, and I fill in the blank. Anki's spaced repetition then schedules each card to come back right before I'd forget it. This is where I make the jump from translating everything in my head to understanding the language directly. As I keep up with the daily reviews, the reading in LingQ gets noticeably easier.
 
-Aminte also has an optional text-to-speech add-on ($10, one time) that reads the sentences aloud. It reinforces how the language sounds, and helps with pronunciation too, if you care about that like I do.
+Aminte also has an optional audio feature ($10, one time) that adds audio of the word and sentence to each card. It reinforces how the language sounds, and helps with pronunciation too, if you care about that like I do.
+
+I recently switched the audio source to **Lesson**, which cuts each clip straight from the Mini Story's own native recording, and it's been working wonders on my listening comprehension.
 
 ### Working on pronunciation
 

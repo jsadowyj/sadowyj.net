@@ -82,7 +82,7 @@ Once I have the corrected sentences, I paste them into LingQ as a new lesson. Th
 
 Then I crank Aminte up to levels 1–4 (New through Learned) and import everything. Since every word and phrase I care about now sits somewhere in that range, Aminte seamlessly creates the flashcards, complete with audio, translations, and [grammar notes]({{< relref "reading-and-anki.md#studying-grammar-with-aminte-notes" >}}).
 
-![Aminte popup in Vocab mode: deck set to Romanian::Lecții pe Italki, 0 sentences of context, word levels from New through Learned, and TTS audio on for both the word and the sentence](/images/aminte_italki_settings.png)
+![Aminte popup in Vocab mode: deck set to Romanian::Lecții pe Italki, 0 sentences of context, word levels from New through Learned, and audio on for both the word and the sentence](/images/aminte_italki_settings.png)
 ![Aminte advanced settings: First occurrence only off, Suspend lookalikes on, AI notes on at level C1, Automatic Anki tags on, Blank length hints off, Card design sync on](/images/aminte_advanced_settings.png)
 
 Two of the advanced settings matter here:
