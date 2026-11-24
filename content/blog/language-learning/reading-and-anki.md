@@ -53,8 +53,6 @@ As a beginner, these are the settings I'd use:
 
 I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review.
 
-This changes once you reach an intermediate level. Now that I'm there in Romanian, I don't import entire lessons anymore. Anki doesn't care how common a word is. A rare word takes just as many reviews to memorize as a frequent one, but it pays you back far less often. That's where the law of diminishing returns kicks in: for most rare words, the juice isn't worth the squeeze. Instead, I let my [speaking lessons]({{< relref "speaking.md#choosing-what-goes-into-anki" >}}) decide what goes into Anki.
-
 That only works if I do things in the right order for each lesson:
 
 1. **Open the lesson and bump every existing LingQ up one level.** Now the only level 1 words left are ones I haven't saved before.
@@ -153,6 +151,8 @@ Anki pays off most once I start speaking. When I blank on a word mid-sentence, I
 Anki also pushes me away from translating in my head. The front of every cloze card is entirely in the target language, so I recall each word from the sentence around it, not from its English translation. After enough reviews, words connect straight to their meaning, and the translating fades on its own without me forcing it.
 
 Each card shows a word in only one sentence, so Anki can't do this job alone. And LingQ can't do it alone either, because with reading alone you're at the mercy of a word happening to show up again before you forget it. The two tools have different roles: **LingQ gives me the variety**, with the same word showing up in new lessons, forms, and contexts, and **Anki gives me the retention**, bringing each word back right before I'd forget it. Each one covers the other's weakness, which is why I use them together.
+
+> **A note for intermediate learners:** this changes once you reach an intermediate level. Now that I'm there in Romanian, I don't import entire lessons anymore. Anki doesn't care how common a word is. A rare word takes just as many reviews to memorize as a frequent one, but it pays you back far less often. That's where the law of diminishing returns kicks in: for most rare words, the juice isn't worth the squeeze. Instead, I let my [speaking lessons]({{< relref "speaking.md#choosing-what-goes-into-anki" >}}) decide what goes into Anki. More on that in [Part 6]({{< relref "intermediate.md" >}}).
 
 ---
 

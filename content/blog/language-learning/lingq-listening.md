@@ -44,7 +44,7 @@ I think the real problem with listening is that it isn't nearly as measurable. A
 
 ## After the Mini Stories
 
-LingQ has more courses to choose from, and I pick whatever interests me most. As you move through the fluency levels, the content gets more relevant to you, and eventually more personal: you can read what you're actually interested in instead of guided beginner material. I'll write a separate post someday about what to do once you reach an intermediate level, but if you stick with this for 6 months, you'll be blown away by how much you understand.
+LingQ has more courses to choose from, and I pick whatever interests me most. As you move through the fluency levels, the content gets more relevant to you, and eventually more personal: you can read what you're actually interested in instead of guided beginner material. I cover what changes once you reach an intermediate level in [Part 6]({{< relref "intermediate.md" >}}), but if you stick with this for 6 months, you'll be blown away by how much you understand.
 
 ---
 

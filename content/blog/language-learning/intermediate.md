@@ -4,7 +4,7 @@ date = 2026-11-24T12:00:00-05:00
 draft = false
 +++
 
-Once I reach an intermediate level, my routine changes. Two of those changes are already covered elsewhere: I [stop importing whole lessons into Anki]({{< relref "reading-and-anki.md#sending-words-to-anki" >}}), and I let my [tutor sessions decide what goes into Anki]({{< relref "speaking.md#choosing-what-goes-into-anki" >}}) instead. The biggest new piece is listening.
+Once I reach an intermediate level, my routine changes. Two of those changes are already covered elsewhere: I stop importing whole LingQ lessons into Anki, and I let my [tutor sessions decide what goes into Anki]({{< relref "speaking.md#choosing-what-goes-into-anki" >}}) instead. The biggest new piece is listening.
 
 ## The listening gap
 
