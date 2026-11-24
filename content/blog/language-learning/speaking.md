@@ -70,6 +70,26 @@ If the user says they want no notes, skip step 5.
 ```
 {{< /details >}}
 
+### Turning the sentences into flashcards
+
+Once I have the corrected sentences, I paste them into LingQ as a new lesson. Then I go through the lesson and mark everything I want to memorize:
+
+- **Known words** I want to drill get moved down to **level 4 (Learned)**.
+- **New (blue) words** get marked **level 1**.
+- **Phrases** I want to memorize get their own phrase LingQs.
+
+![A LingQ lesson made from corrected iTalki sentences, with individual words and multi-word phrases marked as LingQs at different levels](/images/italki_lesson.png)
+
+Then I crank Aminte up to levels 1–4 (New through Learned) and import everything. Since every word and phrase I care about now sits somewhere in that range, Aminte seamlessly creates the flashcards, complete with audio, translations, and [grammar notes]({{< relref "reading-and-anki.md#studying-grammar-with-aminte-notes" >}}).
+
+![Aminte popup in Vocab mode: deck set to Romanian::Lecții pe Italki, 0 sentences of context, word levels from New through Learned, and TTS audio on for both the word and the sentence](/images/aminte_italki_settings.png)
+![Aminte advanced settings: First occurrence only off, Suspend lookalikes on, AI notes on at level C1, Automatic Anki tags on, Blank length hints off, Card design sync on](/images/aminte_advanced_settings.png)
+
+Two of the advanced settings matter here:
+
+- **First occurrence only: off.** There's usually more than one sentence with the word or phrase I want to memorize, and I want a card for each one.
+- **Blank length hints: off.** With this on, the length of the blank gives away whether the answer is a single word or a phrase. Turning it off makes reviews just a bit harder, which encodes the word/phrase better.
+
 ## Free practice with strangers: OmeTV
 
 [OmeTV](https://ome.tv) is a free video chat site that pairs you with random strangers, and it's another great resource. If you're afraid of making mistakes like I am, it's the perfect environment. When I accidentally said "I gave birth in America" instead of "I was born in America" (true story, unfortunately), I just skipped to the next person and will (probably) never have to look them in the eyes again.
@@ -80,4 +100,4 @@ Still, it's free and super useful. My Romanian speaking practice outside of fami
 
 ---
 
-[<- Part 4: Listening]({{< relref "lingq-listening.md" >}}) · [Back to the intro]({{< relref "intro.md" >}})
+[<- Part 4: Listening]({{< relref "lingq-listening.md" >}}) · [Part 6: Intermediate ->]({{< relref "intermediate.md" >}})

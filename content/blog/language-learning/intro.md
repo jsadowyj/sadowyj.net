@@ -78,6 +78,7 @@ If you can't commit 2 hours a day, I'd drop Anki and split 1 hour between LingQ 
 3. [Reading and Anki]({{< relref "reading-and-anki.md" >}}): daily, ~1.5 hours
 4. [Listening]({{< relref "lingq-listening.md" >}}): daily, ~30 minutes
 5. [Speaking]({{< relref "speaking.md" >}}): starting around 6,000 known words
+6. [Intermediate]({{< relref "intermediate.md" >}}): swapping LingQ for Sluka to close the listening gap
 
 ---
 
