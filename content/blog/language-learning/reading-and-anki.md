@@ -51,7 +51,9 @@ As a beginner, these are the settings I'd use:
 
 ![Aminte settings: 1 sentence of context, only word level 1 (New) checked, and audio on for both the word and the sentence](/images/aminte_settings.png)
 
-I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review. Only at an intermediate level do I start including higher levels so I can see niche words in more contexts.
+I only import **level 1** words, which means each word gets imported once, the day I first save it. That's because of the 80/20 rule: in most languages, the roughly 2,000 most common words make up about 80% of everyday text. Those common words show up in nearly every lesson, so if I imported them at every level, I'd end up with far more cards than I could ever review.
+
+This changes once you reach an intermediate level. Now that I'm there in Romanian, I don't import entire lessons anymore. Anki doesn't care how common a word is. A rare word takes just as many reviews to memorize as a frequent one, but it pays you back far less often. That's where the law of diminishing returns kicks in: for most rare words, the juice isn't worth the squeeze. Instead, I let my [speaking lessons]({{< relref "speaking.md#choosing-what-goes-into-anki" >}}) decide what goes into Anki.
 
 That only works if I do things in the right order for each lesson:
 
@@ -71,21 +73,28 @@ Aminte also has an optional text-to-speech add-on ($10, one time) that reads the
 
 ### Working on pronunciation
 
-If you don't want an accent, keep audio on while reviewing. After filling in the word, say the whole sentence out loud and repeat it until you nail the pronunciation. It makes reviews slower, which is the tradeoff I describe in [Part 1]({{< relref "before-you-start.md#deciding-whether-i-care-about-an-accent" >}}).
+If you don't want an accent, keep audio on while reviewing. After filling in the word, say the whole sentence out loud and repeat it until you nail the pronunciation. It makes reviews slower, which is the tradeoff I describe in [Part 1]({{< relref "before-you-start.md#whether-to-care-about-an-accent" >}}).
+
+### Studying grammar with Aminte's notes {#studying-grammar-with-aminte-notes}
+
+This is where most of my grammar study happens now. Aminte can add a grammar note to each card: if I didn't write my own notes for a LingQ, it pulls in LingQ's AI grammar breakdown for that word, explained in the context of that card's sentence.
+
+I like this much more than sitting down with a grammar guide, because it comes in bite-sized pieces. Each note covers one word in one sentence I'm already looking at, so the explanation has something real to attach to, which is the whole point of [skimming the grammar first]({{< relref "prep.md#skimming-the-grammar" >}}). Over a day of reviews, that adds up to dozens of small grammar lessons without ever setting aside time for one.
 
 ### My Anki settings
 
 These are the deck settings I use with Aminte:
 
-![Anki deck options, part 1: 30 new cards per day, 9,999 maximum reviews per day, 10-minute learning and relearning steps, leech threshold of 4, leech action set to Suspend Card](/images/anki_settings_1.png)
-![Anki deck options, part 2: display order settings, with FSRS enabled and desired retention at 90%](/images/anki_settings_2.png)
+![Anki deck options, part 1: 30 new cards per day, 9,999 maximum reviews per day, 10-minute learning and relearning steps, leech threshold of 5, leech action set to Tag Only](/images/anki_settings_1.png)
+![Anki deck options, part 2: display order settings with review sort order set to ascending retrievability, plus FSRS enabled and desired retention at 90%](/images/anki_settings_2.png)
 ![Anki deck options, part 3: burying, audio, timer, and auto-advance settings](/images/anki_settings_3.png)
 
 The ones that matter most:
 
-- **30 new cards a day, with no cap on reviews.** I'd rather clear every review due that day than let them pile up.
+- **Up to 30 new cards a day.** 30 is very difficult, so treat it as an upper limit, not a target you hold yourself to. If you really don't feel like doing new cards one day, do a small amount, like 5. It makes a huge difference for keeping the habit, and it still keeps you on track.
+- **No cap on reviews.** I'd rather clear every review due that day than let them pile up.
 - **FSRS on, at 90% retention.** FSRS is Anki's newer scheduling algorithm. It adapts to how you actually remember cards.
-- **Leech threshold of 4, set to suspend.** More on this below.
+- **Leech threshold of 5, set to tag only.** More on this below.
 - **The display order settings.** These control what order cards show up in, and I set them on purpose (see below).
 
 ### Why my display order settings matter
@@ -95,7 +104,8 @@ The second screenshot above shows the display order section. Here's what I chose
 - **New cards: Show after reviews.** I always clear what's due before touching anything new. If I run out of time, the cards that get skipped are new ones, which can wait, not old ones I'm about to forget.
 - **New card sort order: Random.** Cards from the same lesson would otherwise show up back to back, and the sentences from one story give each other away. Shuffling them makes me recall each word on its own.
 - **Interday learning cards: Show before reviews.** Cards I failed recently are still fresh, so I go through them first, while there's the best chance they'll stick.
-- **Review sort order: Descending retrievability.** I start with the cards I'm most likely to remember, which gets me warmed up and into a rhythm before the harder ones.
+- **Review sort order: Ascending retrievability.** I start with the cards I'm *least* likely to remember. I used to use descending (easiest first), but I like having all the difficulty up front, so I'm not anticipating pain as I move through my reviews. This works because I'm generally good about getting through my cards every day. If you're less consistent and often have a backlog, descending may fit you better.
+    - I also switch to descending on low-energy days, when I want to get through my cards without much mental load.
 
 ### Falling behind
 
@@ -103,7 +113,9 @@ It happens to all of us! When I was moving, I fell way behind and ended up with 
 
 ### Leeches
 
-Some cards just won't stick without an extra nudge. This gets more common as I progress, because I start noticing that a second word would fit the sentence just as well as the "correct" one, and I keep mixing them up. Anki calls a card I keep failing a **leech**. Once a card hits the leech threshold, Anki *suspends* it, meaning it stops showing up in reviews until I fix it. I set the threshold to 4 instead of the default 8, so I don't have to fail a card eight times before I get to the fix.
+Some cards just won't stick without an extra nudge. This gets more common as I progress, because I start noticing that a second word would fit the sentence just as well as the "correct" one, and I keep mixing them up. Anki calls a card I keep failing a **leech**. Once a card hits the leech threshold, Anki flashes a "leech" message on screen and does whatever the leech action says. I used to have it *suspend* leeches, pulling them out of reviews until I fixed them. Now I have it set to **Tag Only** (see the [first settings screenshot](#my-anki-settings)), because adding a cue (below) really negates the need to suspend anything. When that leech message flashes on my screen, that's my sign to either add a cue, or change the existing one so it encodes the word better.
+
+I set the threshold to 5 instead of the default 8. This one really depends on you. I've noticed some cards just take me 5 fails before I finally remember them, but everyone is different. If you find cards getting marked as leeches a lot, raise it. You'll need to find your own balance.
 
 The fix: when a card is marked as a leech, I click **Edit** on it and fill in the **Cue** field, which then shows up under the sentence. The trick is to give myself the *smallest* hint that works. Writing the English translation would make the card too easy, so I try to find the minimum information I need to get it right next time. A few examples:
 
@@ -132,7 +144,7 @@ I recommend emojis for simple things like colors and common nouns (🍎, 🐕, �
 
 #### Is it worth fixing leeches?
 
-I think so. A leech I let stay suspended never gets as firmly set in my mind as the words I actually review. That said, if you're short on time, letting leeches stay suspended is fine. And if a card turned into a leech because two words fit equally well, that's a good sign: it means you're starting to notice nuance.
+I think so. With the leech action on Tag Only, a leech keeps showing up in my reviews either way, so skipping the fix usually just means failing it a few more times. A good cue is almost always the cheaper option. And if a card turned into a leech because two words fit equally well, that's a good sign: it means you're starting to notice nuance.
 
 ### Why not just read more in LingQ?
 

@@ -22,10 +22,53 @@ A tutor's incentives and a learner's don't line up. Tutors do better when you ke
 So I set it up like this:
 
 - I do the talking, no matter how bad it is.
-- The tutor writes down my mistakes as I go instead of interrupting.
+- The tutor writes down every mistake they notice as I go instead of interrupting.
+- I keep my own list too: every mistake I catch myself making, and every time I get blocked and a word or phrase comes to me in English.
 - At natural pauses, I ask them to go over the list with me.
 - They only explain *why* something is wrong when I ask.
   - No PowerPoint. I ask them to explain with example sentences instead.
+
+### Choosing what goes into Anki
+
+Those lists, especially the blocks, are how I know a word or phrase is useful enough to cram in Anki. A block means I needed it in a real conversation and didn't have it.
+
+In the beginning, almost every word is worth memorizing in Anki, because you're still in the zone of the 2,000 most frequently used words. That stops being true at an intermediate level. Most of the words you're still missing are rare, and that includes the ones you get blocked on in conversation. The difference is that those are relevant to you. If I got blocked on a word while telling my tutor about my week, it's part of my life, and it'll come up again. A random rare word from a LingQ lesson, like "metallurgy," probably won't. By narrowing my new vocabulary down to the stuff I actually talk about, I keep my Anki workload manageable at an intermediate level.
+
+### Turning mistakes into sentences
+
+For every mistake and block on those lists, I come up with a sentence that uses that word or phrase, about my own life or the conversation I just had. Then I have AI correct them.
+
+Fight the urge to paste the mistakes into AI and have it generate all of the sentences for you. You want sentences that are meaningful to you, because that's really what you're practicing here: how to have meaningful conversations in your target language.
+
+Sometimes I just can't come up with a sentence for a word. When that happens, I write all the other sentences first and leave that one blank. That way the AI has the rest of my sentences as context, so it can write one that still has something to do with me.
+
+For the corrections, I use a custom Claude skill I run as `/romanian-corrections`. I paste my mistakes and blocks under *Greșelile/Blocările* (mistakes/blocks) and my numbered sentences under *Propoziții* (sentences). Here's the full prompt, if you want to adapt it for your own language:
+
+{{< details summary="The /romanian-corrections prompt" >}}
+```markdown
+---
+name: "romanian-corrections"
+description: "Correct the user's Romanian practice sentences (Greșelile/Blocările + Propoziții format) and return only the corrected Propoziții list plus brief notes."
+---
+
+The user is learning Romanian. They will paste a list of mistakes/blocks under "Greșelile/Blocările:" and numbered practice sentences under "Propoziții:".
+
+The goal is everyday spoken Romanian, not polished written style. Corrections should sound like what a native speaker would actually say in casual conversation, not bookish or formal.
+- Keep colloquial forms the user already used when they are correct in speech (e.g. "o să" + subjunctive for the future, "nu-s", "n-am", "ăsta/asta", "din cauza asta"). Don't swap them for formal equivalents like "vor" or "din această cauză".
+- Prefer common, conversational words and phrasing over literary or prescriptive choices. Don't flag usages that are standard in everyday speech even if style guides frown on them (e.g. "datorită" for neutral causes).
+- Still fix real errors: grammar, agreement, cases, spelling, diacritics, and words that don't fit the meaning.
+
+Do the following:
+
+1. Correct every sentence so it is grammatical and sounds natural in everyday speech, including diacritics (ă, â, î, ș, ț), capitalization, spelling, and word choice.
+2. If a sentence is blank or only contains a word or form in parentheses, write a natural, conversational sentence that uses that word or form.
+3. If a word or phrase in the mistakes list has no matching sentence, add a sentence for it at the end of the list, continuing the numbering.
+4. Output ONLY the "Propoziții:" section, in exactly the same format the user used: the same heading, numbering, and blank lines between sentences. Do not repeat the mistakes list, and do not add bold or other formatting inside the list.
+5. After the list, add a short "Notes:" section in English with one line per sentence that changed, explaining the main correction. Skip sentences that were already correct. Keep the notes brief.
+
+If the user says they want no notes, skip step 5.
+```
+{{< /details >}}
 
 ## Free practice with strangers: OmeTV
 

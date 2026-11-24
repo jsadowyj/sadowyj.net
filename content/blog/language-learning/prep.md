@@ -4,11 +4,13 @@ date = 2026-09-26T21:00:00-04:00
 draft = false
 +++
 
-Before the daily routine starts, I spend a few days on three things: grammar terms in English, the alphabet, and a quick skim of the grammar.
+Before the daily routine starts, I spend a few days on the alphabet and a quick skim of the grammar. If it's your first foreign language, there's one more step before those: learning grammar terms in your native language.
 
-## English grammar jargon
+## Grammar jargon (first language only)
 
-The language learning community seriously underrates this step. Almost every explanation for "why did this word just change form?" is written in grammar jargon, so knowing what I know now, I'd learn the jargon in English first. Learning these concepts for the first time *through* a language you don't understand yet is inefficient. This takes a day or two at most.
+The language learning community seriously underrates this step. Almost every explanation for "why did this word just change form?" is written in grammar jargon, so knowing what I know now, I'd learn the jargon in my native language before starting my first foreign language. Learning these concepts for the first time *through* a language you don't understand yet is brutal, because you're stuck figuring out the concept and the language at the same time. This takes a day or two at most.
+
+You only need to do this once. The terms carry over to every language after that, so if you've already learned a foreign language, skip ahead to [the alphabet](#the-alphabet).
 
 For example, do you know why we say "he gave it to *me*" and not "he gave it to *I*"? That difference matters a lot once you're learning a whole new set of pronouns.
 
@@ -67,7 +69,7 @@ I wouldn't skip this step and just let LingQ's text-to-speech read every word to
 
 How I handle this step can make the difference between sticking with a language and quitting. **I don't study grammar intensely until I've had a lot of exposure to the language.** Without a baseline, grammar rules have nothing to attach to, and trying to apply them anyway just leads to frustration. This is where high school and college courses lose a lot of people. [This video](https://www.youtube.com/watch?v=STYcCNcs_vo) looks at whether college language learning is actually backed by science.
 
-Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/grammar), and I mean skim. If something doesn't click after one or two reads, I move on to the next section. The goal isn't to learn the rules. It's to train myself on *what to notice*: which parts of a sentence should stand out when I run into them later in LingQ. Steve Kaufmann, LingQ's co-founder, calls this [the ability to notice](https://www.youtube.com/watch?v=2_MjQJDs8Xg), and he's the one who popularized the term in the language learning community. Two examples of what I take away:
+Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/grammar), and I mean skim. If something doesn't click after one or two reads, I move on to the next section. The goal isn't to learn the rules. It's to train myself on *what to notice*: which parts of a sentence should stand out when I run into them later in LingQ. Steve Kaufmann, LingQ's co-founder, calls this [the ability to notice](https://www.youtube.com/watch?v=qIF06BpITPE), and he's the one who popularized the term in the language learning community. Two examples of what I take away:
 
 [Russian adjective agreement](https://elon.io/grammar/russian/adjectives/agreement/overview):
 
@@ -80,7 +82,7 @@ Instead, I *skim* the beginner (A1) grammar guides on [elon.io](https://elon.io/
 > | Neuter sg. | -ое / -ее | но́вое, после́днее |
 > | Plural (all genders) | -ые / -ие | но́вые, после́дние |
 
-(See how the [grammar jargon](#english-grammar-jargon) shows up right away?) My takeaway is only the first sentence: *adjectives change shape.* Right now I only care that they change, not what they change into. The goal is to plant a seed of "I think I read about this once" for when I finally see it in action.
+(See how the [grammar jargon](#grammar-jargon-first-language-only) shows up right away?) My takeaway is only the first sentence: *adjectives change shape.* Right now I only care that they change, not what they change into. The goal is to plant a seed of "I think I read about this once" for when I finally see it in action.
 
 [German adjectives](https://elon.io/grammar/german/adjectives/overview):
 
@@ -96,7 +98,7 @@ All of these questions will come up again. The difference is that next time I'll
 
 I don't spend more than a day on this. I'm not going to catch everything, and sometimes I'll read an entire article and catch nothing, which is fine. I skim every A1 article and take whatever sticks.
 
-Grammar usually comes back during my LingQ reading. When I notice something I'm curious about, I jot down a quick note, then ask AI about it while Aminte is importing that lesson's cards.
+After this, grammar comes back in small doses instead of study sessions. Most of my grammar study now happens during Anki reviews, through [Aminte's grammar notes]({{< relref "reading-and-anki.md#studying-grammar-with-aminte-notes" >}}).
 
 ---
 

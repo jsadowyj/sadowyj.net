@@ -74,7 +74,7 @@ If you can't commit 2 hours a day, I'd drop Anki and split 1 hour between LingQ 
 ## The parts
 
 1. [Before starting]({{< relref "before-you-start.md" >}}): how long it takes, Duolingo, and whether to care about an accent
-2. [Prep]({{< relref "prep.md" >}}): grammar terms, the alphabet, and a grammar skim, over a few days
+2. [Prep]({{< relref "prep.md" >}}): the alphabet and a grammar skim (plus grammar terms, for your first language), over a few days
 3. [Reading and Anki]({{< relref "reading-and-anki.md" >}}): daily, ~1.5 hours
 4. [Listening]({{< relref "lingq-listening.md" >}}): daily, ~30 minutes
 5. [Speaking]({{< relref "speaking.md" >}}): starting around 6,000 known words
